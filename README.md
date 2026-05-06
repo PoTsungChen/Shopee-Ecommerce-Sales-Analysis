@@ -1,4 +1,4 @@
-# 📊 Shopee Ecommerce Sales Analysis
+# Shopee Ecommerce Sales Analysis
 
 
 ## 🖼️Contxt
