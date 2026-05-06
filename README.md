@@ -4,21 +4,25 @@
 ## 🖼️Contxt
 
 
-## 🧩Business Problems
+## 🧩Core Business Problem
 
   
-## 🔍Exploratory Data Analysis (EDA)
+## 🔍Approach
+  - Sales trend:
+  - Product performance:
+  - Customer segmentation:
+  - Marketing analysis:
 
 
-## 🎯Key Findings & Insights
-
+## 🎯Insights
 
 
 ## 🚀 Recommendations:
 
 
 
-## 🛠️Tools & Technologies Used
-1.  Database: SQL (Snowflakes)
-3.  Power BI: Dashboard, data visualization.
+## 🛠️Tech stack
+1.  SQL
+2.  Power BI
+3.  Snowflakes
 4.  Dataset Source: Kaggle
