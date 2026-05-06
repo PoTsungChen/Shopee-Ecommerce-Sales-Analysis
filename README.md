@@ -19,9 +19,8 @@ The Solution: By mapping every step from "Home Page" to "Payment Complete," you 
 ## 🔍Approach
   - Sales trend:
   - Product performance:
-  - Customer segmentation:
   - Marketing analysis:
-
+  - Customer demographics:
 
 ## 🎯Insights
 
