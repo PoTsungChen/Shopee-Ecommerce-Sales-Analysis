@@ -16,17 +16,17 @@
 
 ## 🎯Insights
 **Sales Trend:**
-1. Explosive revenue growth in 2025.
+1. **Explosive revenue growth in 2025**.
    - Sales remained relatively flat and below historical averages through 2022 and 2023, however, Q4 2024 served as a critical inflection point as the revenue surged sharply above benchmark and this upward momentum accelerated through 2025.
    - The 2025 Breakout: Q4 2025 revenue reached a massive 1.13bn, nearly tripling the revenue of Q4 2024 (0.41bn).
    - Strong and Sustained Growth: Revenue growth has remained consistently above 100% YoY. Notably, the 150% growth achieved in 2025 outperformed the already impressive 127% recorded in 2023.
-2. Marketing-Driven Growth Engine:
+2. **Marketing-Driven Growth Engine**:
    - A strong positive correlation between campaign volume and revenue suggests that marketing activity is the primary driver of the Q4 2025 surge. A record-breaking push of 4.9K campaigns directly catalyzed the 1.13bn revenue peak, demonstrating the high efficacy of the current promotional strategy.
-3. Orders Driving Growth:
+3. **Orders Driving Growth**:
    - Order volume YoY% for 2025 is 151% (driven by the campaigns), matching the revenue growth 150%, indicating that the business is winning by acquiring a massive number of new customers/orders.
-4. Pronounced Q4 Seasonality:
+4. **Pronounced Q4 Seasonality**:
    - Throughout the observed period, Q4 has consistently emerged as the strongest quarter in terms of revenue. This performance highlights a significant reliance on year-end shopping events, such as the 11.11 and 12.12 festivals.
-5. Stagnant AOV:
+5. **Stagnant AOV**:
    - Average Order Value (AOV) remained steady and hovered around the 14K mark while order volume surged significantly in 2025. This suggests that the business is driven by higher number of transactions, not by selling more expensive items.
 
 Summary Insight
@@ -34,31 +34,31 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
 
    
 **Product performance:**
-1. The "Home" Category Dominance:
+1. **The "Home" Category Dominance**:
    - Home category accounts for nearly half of all revenue (49.69%) followed by electronics second-largest revenue stream.
-2. Top Product Contributors:
+2. **Top Product Contributors**:
    - Significant revenue concentration is observed in Home Goods, led by Microwaves and Vacuum Cleaners, and Electronics, driven by strong sales in Monitors and Laptops.
-3. Electronics is the Premium Driver:
+3. **Electronics is the Premium Driver**:
    - Despite having lower order volume than Home, Electronics maintains the highest Average Order Value (consistently around 26K–27K).
-4. "High-Volume, High-Value" growth drivers:
+4. **"High-Volume, High-Value" sweet spot**:
    - Products such as Monitors and Vacuum Cleaners are in a sweet spot as they are representing a healthy balance between high value and high volume.
    
 **Funnel analysis:**  
-1. High Overall Conversion Efficiency:
+1. **High Overall Conversion Efficiency**:
    - Out of 652K users who reached the Home page, 300K successfully completed payments. This represents a total conversion rate of 46%, which is significantly higher than industry benchmarks for standard e-commerce.
-2. Low Checkout Abandonment:
+2. **Low Checkout Abandonment**:
    - Notably, there is zero drop-off between the "Checkout" and "Payments" stages, suggesting a frictionless payment gateway and high consumer intent once the checkout process begins.
-3. Device-Balanced Engagement:
+3. **Device-Balanced Engagement**:
    - At the Home page level, each device type equally contributes 217K–218K users. This indicates that your marketing strategies are effectively reaching users across all platforms equally.
-4. Critical Drop-off Point from Product View to Add to Cart:
+4. **Critical Drop-off Point from Product View to Add to Cart**:
    - The transition from Product View (500K) to Add to cart (360K) represents a 28% drop, indicating this is the primary bottleneck.   Users are interested enough to browse specific items but are hesitating to commit them to their carts. This could be due to price comparisons, shipping costs only becoming visible at this stage, or a lack of persuasive "social proof" (reviews/ratings) on the product pages.
    
 **Customer demographics:**  
-1. Market Concentration in Bangkok & Surrounding Areas
+1. **Market Concentration in Bangkok & Surrounding Areas**:
    - Bangkok Dominance: 37.68% (1.54bn) of total revenue is generated in Bangkok alone. When combined with the surrounding provinces (Samut Prakan, Pathum Thani, Nakhon Pathom), this metropolitan cluster accounts for over 75% of your total business.
-2. High-Value "Millennial" client Base:
+2. **High-Value "Millennial" client Base**:
    - The 20-30 and 30-40 age groups are the primary revenue drivers, contributing nearly half of total revenue (46%) collectively.
-3. Gender Parity:
+3. **Gender Parity**:
    - Revenue is split almost 50/50 between Male and Female customers across almost every age bracket.
 
 ## 🚀 Recommendations:
