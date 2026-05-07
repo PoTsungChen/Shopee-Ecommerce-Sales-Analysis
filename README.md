@@ -1,4 +1,4 @@
-# Shopee Thailand Ecommerce Sales Analysis
+# Shopee Thailand E-commerce Sales Analysis
 
 
 ## 🖼️Contxt
