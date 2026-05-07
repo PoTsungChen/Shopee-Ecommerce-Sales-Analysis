@@ -19,10 +19,14 @@
    - Sales remained relatively flat and below historical averages through 2022 and 2023, however, Q4 2024 served as a critical inflection point as the revenue surged sharply above benchmark and this upward momentum accelerated through 2025.
    - The 2025 Breakout: Q4 2025 revenue reached a massive 1.13bn, nearly tripling the revenue of Q4 2024 (0.41bn).
    - Strong and Sustained Growth: Revenue growth has remained consistently above 100% YoY. Notably, the 150% growth achieved in 2025 outperformed the already impressive 127% recorded in 2023.
-2. Marketing-Driven Growth Engine: A strong positive correlation between campaign volume and revenue suggests that marketing activity is the primary driver of the Q4 2025 surge. A record-breaking push of 4.9K campaigns directly catalyzed the 1.13bn revenue peak, demonstrating the high efficacy of the current promotional strategy.
-3. Orders Driving Growth: Order volume YoY% for 2025 is 151% (driven by the campaigns), matching the revenue growth 150%, indicating that the business is winning by acquiring a massive number of new customers/orders.
-4. Stagnant AOV: Average Order Value (AOV) remained steady and hovered around the 14K mark while order volume surged significantly in 2025. This suggests that the business is driven by higher number of transactions, not by selling more expensive items.
-5. Pronounced Q4 Seasonality: Throughout the observed period, Q4 has consistently emerged as the strongest quarter in terms of revenue. This performance highlights a significant reliance on year-end shopping events, such as the 11.11 and 12.12 festivals.
+2. Marketing-Driven Growth Engine:
+   - A strong positive correlation between campaign volume and revenue suggests that marketing activity is the primary driver of the Q4 2025 surge. A record-breaking push of 4.9K campaigns directly catalyzed the 1.13bn revenue peak, demonstrating the high efficacy of the current promotional strategy.
+3. Orders Driving Growth:
+   - Order volume YoY% for 2025 is 151% (driven by the campaigns), matching the revenue growth 150%, indicating that the business is winning by acquiring a massive number of new customers/orders.
+4. Stagnant AOV:
+   - Average Order Value (AOV) remained steady and hovered around the 14K mark while order volume surged significantly in 2025. This suggests that the business is driven by higher number of transactions, not by selling more expensive items.
+5. Pronounced Q4 Seasonality:
+   - Throughout the observed period, Q4 has consistently emerged as the strongest quarter in terms of revenue. This performance highlights a significant reliance on year-end shopping events, such as the 11.11 and 12.12 festivals.
 
 
 Summary Insight
