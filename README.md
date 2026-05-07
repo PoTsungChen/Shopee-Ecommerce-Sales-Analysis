@@ -25,35 +25,6 @@
 5. Pronounced Q4 Seasonality: Throughout the observed period, Q4 has consistently emerged as the strongest quarter in terms of revenue. This performance highlights a significant reliance on year-end shopping events, such as the 11.11 and 12.12 festivals.
 
 
-1. Exponential Growth in Sales Revenue and Volume
-The most striking trend is the massive scale-up starting in late 2024 and accelerating through 2025.
-
-Revenue Surge: Total sales remained relatively flat (around 0.01bn to 0.13bn) throughout 2022 and 2023. However, by Q4 2024, revenue hit 0.41bn and sustained that momentum into 2025.
-
-Order Volume Alignment: The "Number of Orders" chart mirrors the revenue growth almost perfectly, skyrocketing from near-zero levels in 2022 to nearly 100K orders by Q4 2025.
-
-YoY Momentum: The Revenue table confirms this, showing a 150% YoY increase for 2025, significantly higher than the already strong 99% seen in 2024.
-
-2. Decoupling of AOV from Growth
-While Revenue and Orders are exploding, the Average Order Value (AOV) tells a different story.
-
-Stability vs. Volatility: AOV has remained extremely stable, hovering around the 14K mark. It does not follow the upward trajectory of the other metrics.
-
-Negative Growth: The AOV table shows a slight -0.3% Total decline. This indicates that the massive revenue growth is being driven entirely by customer acquisition and order volume, rather than selling more expensive items or increasing prices per order.
-
-3. High Correlation with Marketing Campaigns
-The "Number of Campaigns" chart provides a clear "why" behind the growth.
-
-Campaign-Led Growth: There is a visible spike in campaigns in Q4 2024 (1.5K) and a massive push in Q4 2025 (4.9K).
-
-Efficient Scaling: Total Revenue (the light blue line on the campaign chart) climbs sharply alongside the bars, suggesting that the marketing spend is highly effective and hasn't yet reached a point of diminishing returns.
-
-4. Strong Seasonality and Momentum
-The data shows a consistent Q4 peak each year, particularly in 2024 and 2025.
-
-The "Q4 Effect": The QoQ (Quarter-over-Quarter) growth for 2025 is 42%, and the MoM (Month-over-Month) is 16%. This suggests the business is ending 2025 with its strongest momentum yet.
-
-Historical Recovery: 2022 shows a 135% QoQ jump, likely representing the initial launch or a major recovery period for the brand.
 
 Summary Insight
 The business is currently in a high-growth scaling phase driven by aggressive marketing campaigns. Since the AOV is flat to slightly down, the strategy is clearly a "volume play." To sustain this without ballooning marketing costs, the next logical step would be focusing on retention or finding ways to increase the AOV (upselling/bundling) to maximize the value of the massive influx of new orders.
