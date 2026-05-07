@@ -15,14 +15,83 @@
 
 
 ## 🎯Insights
-  - Sales trend:
-  - Product performance:
-  - Marketing analysis:
-  - Customer demographics:
+**Sales trend:**
+1. Revenue: Sharp increase
+2. AOV: Delining growth
+3. Number of Orders: Seasonality
+4. 
+Based on the Power BI dashboard provided, here are the key characteristics and trends for Sales Revenue, AOV (Average Order Value), and Order volume from 2022 through late 2025.
+
+1. Exponential Growth in Sales Revenue and Volume
+The most striking trend is the massive scale-up starting in late 2024 and accelerating through 2025.
+
+Revenue Surge: Total sales remained relatively flat (around 0.01bn to 0.13bn) throughout 2022 and 2023. However, by Q4 2024, revenue hit 0.41bn and sustained that momentum into 2025.
+
+Order Volume Alignment: The "Number of Orders" chart mirrors the revenue growth almost perfectly, skyrocketing from near-zero levels in 2022 to nearly 100K orders by Q4 2025.
+
+YoY Momentum: The Revenue table confirms this, showing a 150% YoY increase for 2025, significantly higher than the already strong 99% seen in 2024.
+
+2. Decoupling of AOV from Growth
+While Revenue and Orders are exploding, the Average Order Value (AOV) tells a different story.
+
+Stability vs. Volatility: AOV has remained extremely stable, hovering around the 14K mark. It does not follow the upward trajectory of the other metrics.
+
+Negative Growth: The AOV table shows a slight -0.3% Total decline. This indicates that the massive revenue growth is being driven entirely by customer acquisition and order volume, rather than selling more expensive items or increasing prices per order.
+
+3. High Correlation with Marketing Campaigns
+The "Number of Campaigns" chart provides a clear "why" behind the growth.
+
+Campaign-Led Growth: There is a visible spike in campaigns in Q4 2024 (1.5K) and a massive push in Q4 2025 (4.9K).
+
+Efficient Scaling: Total Revenue (the light blue line on the campaign chart) climbs sharply alongside the bars, suggesting that the marketing spend is highly effective and hasn't yet reached a point of diminishing returns.
+
+4. Strong Seasonality and Momentum
+The data shows a consistent Q4 peak each year, particularly in 2024 and 2025.
+
+The "Q4 Effect": The QoQ (Quarter-over-Quarter) growth for 2025 is 42%, and the MoM (Month-over-Month) is 16%. This suggests the business is ending 2025 with its strongest momentum yet.
+
+Historical Recovery: 2022 shows a 135% QoQ jump, likely representing the initial launch or a major recovery period for the brand.
+
+Summary Insight
+The business is currently in a high-growth scaling phase driven by aggressive marketing campaigns. Since the AOV is flat to slightly down, the strategy is clearly a "volume play." To sustain this without ballooning marketing costs, the next logical step would be focusing on retention or finding ways to increase the AOV (upselling/bundling) to maximize the value of the massive influx of new orders.
+
+Do you have the specific campaign spend data? It would be interesting to see if the Return on Ad Spend (ROAS) is holding steady as you scale the number of campaigns so significantly.
+   
+**Product performance:**  
+**Marketing analysis:**  
+**Customer demographics:**  
 
 ## 🚀 Recommendations:
 
+1. Execute an "AOV Lift" Strategy
+Since your AOV has been flat (around 14K) while volume has skyrocketed, you are leaving money on the table with every transaction.
 
+Implement Product Bundling: Create "Frequently Bought Together" modules on the Shopee storefront to move multiple items per checkout.
+
+Threshold-Based Incentives: Offer tiered discounts or free shipping vouchers that kick in just above your current 14K AOV (e.g., "Spend 16K, get 10% off").
+
+Upsell at Checkout: Use the Shopee "Add-on Deal" feature to suggest high-margin accessories right before the customer completes the purchase.
+
+2. Optimize Marketing Spend Efficiency
+The "Number of Campaigns" chart shows a massive spike in Q4 2025. While revenue followed, you need to ensure you aren't over-spending to "buy" that growth.
+
+Funnel Bottleneck Analysis: Use your dbt models to identify where customers drop off between "Click" and "Conversion." If the conversion rate isn't scaling at the same pace as campaign volume, focus on improving product page descriptions and images rather than just adding more ads.
+
+Shift to High-ROI Channels: Analyze which specific Shopee marketing tools (Search Ads vs. Discovery Ads vs. Flash Sales) yield the highest Return on Ad Spend (ROAS) and reallocate the budget from underperforming campaigns.
+
+3. Transition from Acquisition to Retention
+High order volume is great, but it is often cheaper to keep a customer than to find a new one.
+
+Customer Segmentation (RFM): Use your SQL skills to segment your database into "Champions" (frequent, high-spend), "At-Risk," and "New."
+
+Targeted Re-engagement: Send personalized Shopee Chat Broadcasts to "At-Risk" customers with exclusive "Welcome Back" vouchers to drive repeat orders without needing a new expensive ad campaign.
+
+4. Inventory & Operations Scaling
+A 150% YoY growth in revenue can strain supply chains and lead to "Out of Stock" issues, which kill Shopee search rankings.
+
+Predictive Stocking: Use your sales trend data to forecast Q1 and Q2 2026 demand. Ensure your top-performing SKUs are stocked 20% above historical levels to account for the current growth momentum.
+
+Monitor Order Velocity: If order volume continues to climb toward 100K+ per quarter, evaluate whether your current fulfillment process can handle the peak without increasing shipping delays.
 
 ## 🛠️Tech stack
 1.  SQL
