@@ -2,7 +2,7 @@
 
 
 ## 🖼️Contxt
-  - This project provides a comprehensive analysis of e-commerce sales performance for Shopee Thailand. By transforming raw transactional data into a star-schema data model, this analysis uncovers actionable insights into revenue growth, product demand, and customer behaviour. The goal of this report is to provide stakeholders with a clear view of business health and identify bottlenecks in the customer conversion journey,  enabling decision makers to implement data-driven marketing strategies to drive sustainable, long-term growth.
+  - Shopee is the leading e-commerce online shopping platform in Southeast Asia. This project provides a deep-dive analysis into Shopee Thailand’s e-commerce operations, focusing on the core pillars of sale trend, product performance, and customer behavior. The goal of this report is to provide a clear view of business health and deliver actionable insights that enable decision makers to implement data-driven marketing strategies to drive sustainable, long-term growth.
 
 ## 🧩Core Business Problems
 1. Inventory Optimization and seasonal patterns: E-commerce companies often lose massive amounts of capital by over-purchasing slow-moving inventory or experiencing "stock-outs" on high-demand items.
