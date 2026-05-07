@@ -9,14 +9,16 @@
 
 4. Sales Conversion Leaks: a primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. With funnel analysis, it is possible to pinpoint where the largest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
   
-## 🔍Approach
+## 🔍Data Model
+<img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
+
+
+
+## 🎯Insights
   - Sales trend:
   - Product performance:
   - Marketing analysis:
   - Customer demographics:
-
-## 🎯Insights
-
 
 ## 🚀 Recommendations:
 
