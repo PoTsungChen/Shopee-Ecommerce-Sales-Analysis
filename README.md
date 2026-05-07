@@ -2,7 +2,7 @@
 
 
 ## 🖼️Contxt
-  - Shopee is the leading e-commerce online shopping platform in Southeast Asia. This project provides a deep-dive analysis into Shopee Thailand’s e-commerce operations, focusing on the core pillars of sale trend, product performance, and customer behavior. The goal of this report is to provide a clear view of business health and deliver actionable insights that enable decision makers to implement data-driven marketing strategies to drive sustainable, long-term growth.
+  - Shopee is the leading e-commerce online shopping platform in Southeast Asia, operating in a high-velocity digital marketplace. This project provides a deep-dive analysis into Shopee Thailand’s e-commerce operations, focusing on the core pillars of sale trend, product performance, marketing funnels and customer segmentation. The goal of this analysis is to provide a clear view of business health and deliver actionable insights that enable decision makers to implement data-driven marketing strategies to drive sustainable, long-term growth.
 
 ## 🧩Core Business Problems
 1. Inventory Optimization and seasonal patterns: E-commerce companies often lose massive amounts of capital by over-purchasing slow-moving inventory or experiencing "stock-outs" on high-demand items.
