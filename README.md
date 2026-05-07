@@ -50,7 +50,7 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
    - Notably, there is zero drop-off between the "Checkout" and "Payments" stages, suggesting a frictionless payment gateway and high consumer intent once the checkout process begins.
 3. **Device-Balanced Engagement**:
    - At the Home page level, each device type equally contributes 217K–218K users. This indicates that your marketing strategies are effectively reaching users across all platforms equally.
-4. **Critical Drop-off Point from Product View to Add to Cart**:
+4. **Critical Drop-off Point**:
    - The transition from Product View (500K) to Add to cart (360K) represents a 28% drop, indicating this is the primary bottleneck.   Users are interested enough to browse specific items but are hesitating to commit them to their carts. This could be due to price comparisons, shipping costs only becoming visible at this stage, or a lack of persuasive "social proof" (reviews/ratings) on the product pages.
    
 **Customer demographics:**  
