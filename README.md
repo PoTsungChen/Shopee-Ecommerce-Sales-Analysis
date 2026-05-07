@@ -6,9 +6,9 @@
 - As the leading e-commerce platform in Southeast Asia, Shopee operates within a high-velocity digital marketplace. This project delivers a comprehensive deep-dive into Shopee Thailand’s operations, focusing on four critical pillars: Sales Trends, Product Performance, Marketing Funnels, and Customer Segmentation. By evaluating these core metrics, the analysis provides a holistic view of business health and delivers actionable insights designed to catalyze sustainable, long-term growth.
 
 ## 🧩Core Business Problems
-1. Inventory Optimization and Seasonality: E-commerce companies often face significant challenge from inventory management due to over-leveraging slow-moving stock or lost revenue from 'stock-outs' on high-demand items. By analyzing historical sales trends with product performance metrics, this report identifies critical seasonal patterns that enable data-driven inventory forecasting, ensuring optimized capital allocation and inventory level.
+1. Inventory Optimization and Seasonality: E-commerce companies often struggle with inventory inefficiencies due to "over-stock" on slow-moving products or "stock-out" for high-demand items. This analysis identifies seasonal patterns to better align inventory levels with fluctuating market demand.
 
-4. Sales Conversion Leaks: another primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. With funnel analysis, it is possible to pinpoint where the largest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
+2. Sales Conversion Leaks: a primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
   
 ## 🔍Data Model
 <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
