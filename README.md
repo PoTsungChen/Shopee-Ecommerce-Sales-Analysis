@@ -13,14 +13,15 @@
 <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
 
 
-
 ## 🎯Insights
 **Sales trend:**
-1. Revenue: Sharp increase
-2. AOV: Delining growth
-3. Number of Orders: Seasonality
-4. 
-Based on the Power BI dashboard provided, here are the key characteristics and trends for Sales Revenue, AOV (Average Order Value), and Order volume from 2022 through late 2025.
+1. Explosive revenue growth in 2025.
+   - Sales remained relatively flat and below historical averages through 2022 and 2023, however, Q4 2024 served as a critical inflection point as the revenue surged sharply above benchmark and this upward momentum accelerated through 2025.
+   - The 2025 Breakout: Q4 2025 revenue reached a massive 1.13bn, nearly tripling the revenue of Q4 2024 (0.41bn).
+   - Strong and Sustained Growth: Revenue growth has remained consistently above 100% YoY. Notably, the 150% growth achieved in 2025 outperformed the already impressive 127% recorded in 2023.
+3. AOV: Delining growth
+4. Number of Orders: Seasonality
+
 
 1. Exponential Growth in Sales Revenue and Volume
 The most striking trend is the massive scale-up starting in late 2024 and accelerating through 2025.
