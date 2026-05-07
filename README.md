@@ -8,7 +8,7 @@
 ## 🧩Core Business Problems
 1. **Inventory Optimization and Seasonality**: E-commerce companies often struggle with inventory inefficiencies due to "over-stock" on slow-moving products or "stock-out" for high-demand items. This analysis identifies seasonal patterns to better align inventory levels with fluctuating market demand.
 
-2. **Sales Conversion Leaks**: a primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
+2. **Sales Conversion Leaks**: another primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
   
 ## 🔍Data Model
 <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
