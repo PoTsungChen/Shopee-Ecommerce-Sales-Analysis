@@ -136,6 +136,14 @@ Maintain Multi-Device Parity: Because your users are so evenly split, any future
 
 Investigate the 100% Checkout-to-Payment Rate: While this is a positive sign, it’s worth double-checking the data logging to ensure that "Checkout" and "Payment" are truly distinct events, as a 100% completion rate is exceptionally rare and may suggest a very streamlined (or combined) one-click checkout process.
 
+
+Actionable Strategic Roadmap
+Geographical Expansion: Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster (e.g., Pak Kret or regional hubs in the North) to reduce dependency on the capital.
+
+Age-Specific Campaigns: Since the 20-40 group is your engine, focus your "Shopee Live" and TikTok campaigns on this demographic, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
+
+AOV Lift in Groceries/Beauty: These categories have lower AOV (~9K-10K). Use Product Bundling (e.g., "Home Cleaning Kit" including a Vacuum and Beauty/Grocery essentials) to increase the basket size of your high-frequency shoppers.
+
 ## 🛠️Tech stack
 1.  SQL
 2.  Power BI
