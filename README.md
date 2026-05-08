@@ -82,6 +82,11 @@
    - The transition from Product View (500K) to Add to cart (360K) represents a 28% drop, indicating this is the primary bottleneck.   Users are interested enough to browse specific items but are hesitating to commit them to their carts. This could be due to price comparisons, shipping costs only becoming visible at this stage, or a lack of persuasive "social proof" (reviews/ratings) on the product pages.
    
 **Customer demographics:**  
+
+<p align="center">
+<img width="45%" height="248" alt="image" src="https://github.com/user-attachments/assets/a8b1d9ef-9510-44bd-98c4-723bfe1fbb3e" />  &nbsp; <img width="45%" height="350" alt="image" src="https://github.com/user-attachments/assets/12235c55-4392-4f43-ba11-b3d4b5a59c7a" />
+</p>
+
 1. **Market Concentration in Bangkok & Surrounding Areas**:
    - 37.68% (1.54bn) of total revenue is generated in Bangkok alone. When combined with the surrounding provinces (Samut Prakan, Pathum Thani, Nakhon Pathom), this metropolitan cluster accounts for over 75% of your total business.
 2. **High-Value "Millennial" client Base**:
