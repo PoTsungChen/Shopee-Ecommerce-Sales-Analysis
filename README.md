@@ -64,17 +64,23 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
 ## 🚀 Recommendations:
 
 **Sales**
+1. Threshold-Based Incentives:
+   - Offer tiered discounts or free shipping for total purchase exceeding current 14K average Average Order Value (AOV).
+2. Upsell at Checkout:
+   - Implement "Add-on Deal" feature to algorithmically suggest high-margin accessories at the final checkout stage.
+Goal: Accelerate Average Order Value (AOV) & margin growth.
 
-2. Threshold-Based Incentives:
-   - Offer tiered discounts or free shipping policy for total purchase exceeding 14K average AOV.
-3. Upsell at Checkout:
-   - Use "Add-on Deal" feature to suggest high-margin accessories right before the customer completes the purchase.
-4. Double down on the high-performing campaign types:
-   - Replicate the marketing efficiency surge in Q2 and Q3 of 2026 to smooth out seasonality rather than relying solely on a year-end boost.
-5. Strategic Inventory Scaling:
-   - Utilizes cyclical sales data to project future inventory requirements. Maintain optimal stock levels for top-performing products to sustain growth momentum while mitigating the risk of stock-outs and lost revenue.
-6. Targeted Re-engagement: 
-   - Transition from acquisition to retention. Send personalized emails to existing customers with exclusive promotional vouchers to drive repeat orders without needing a new expensive ad campaign.
+3. Double down on the high-performing campaign tactics:
+   - Replicate the high efficiency marketing model in late 2025 into early 2026 to smooth out seasonality rather than relying solely on a year-end boost.
+Goal: Smooth revenue volatility & sustain growth momentum.
+
+4. Strategic Inventory Scaling:
+   - Utilize cyclical sales data to project future inventory requirements. Maintain optimal stock levels for top-performing products to sustain growth momentum while mitigating the risk of stock-outs and lost revenue.
+Goal: Align inventory with demand fluctuations.
+
+5. Targeted Re-engagement: 
+   - Leverage the expanded customer base from recent campaigns to fuel retention opportunity. Send personalized emails to existing customers with exclusive promotional vouchers to drive repeat orders without needing a new expensive ad campaign.
+Goal: Reduce churn & drive repeat revenue.
 
 **Products**
 1. Cross-Sell Opportunity:
