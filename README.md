@@ -98,7 +98,7 @@
    - Significant revenue concentration is observed in Home Goods, led by Microwaves and Vacuum Cleaners, and Electronics, driven by strong sales in Monitors and Laptops.
 
 <p align="center">
-<img width="45%" height="380" alt="image" src="https://github.com/user-attachments/assets/d03a4cf0-1bcd-4fe4-9a04-a1267f50b453" /> &nbsp; <img width="45%" height="240" alt="image" src="https://github.com/user-attachments/assets/6d05b444-934b-4afc-aa1e-512d39454a60" />
+<img width="49%" height="280" alt="image" src="https://github.com/user-attachments/assets/d03a4cf0-1bcd-4fe4-9a04-a1267f50b453" /> &nbsp; <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/6d05b444-934b-4afc-aa1e-512d39454a60" />
 </p>
 
 3. **Electronics is the Premium Driver**:
@@ -113,7 +113,7 @@
 </div>
 
 <p align="center">
-<img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" /> &nbsp; <img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
+<img width="45%" height="270" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" /> &nbsp; <img width="45%" height="270" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
 </p>
 
 
@@ -133,7 +133,7 @@
 </div>
 
 <p align="center">
-<img width="45%" height="248" alt="image" src="https://github.com/user-attachments/assets/a8b1d9ef-9510-44bd-98c4-723bfe1fbb3e" />  &nbsp; <img width="45%" height="350" alt="image" src="https://github.com/user-attachments/assets/12235c55-4392-4f43-ba11-b3d4b5a59c7a" />
+<img width="46%" height="260" alt="image" src="https://github.com/user-attachments/assets/a8b1d9ef-9510-44bd-98c4-723bfe1fbb3e" />  &nbsp; <img width="47%" height="290" alt="image" src="https://github.com/user-attachments/assets/12235c55-4392-4f43-ba11-b3d4b5a59c7a" />
 </p>
 
 1. **Market Concentration in Bangkok & Surrounding Areas**:
