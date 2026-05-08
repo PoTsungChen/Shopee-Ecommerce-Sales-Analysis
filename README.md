@@ -1,23 +1,48 @@
-# Shopee Thailand E-commerce Sales Analysis
+<div align="center">
 
+# **Shopee Thailand E-commerce Sales Analysis**
 
-### 🖼️Contxt
+</div>
+
+<div align="center">
+
+## **Contxt**
+
+</div>
 
 - As the leading e-commerce platform in Southeast Asia, Shopee operates within a high-velocity digital marketplace. This project delivers a comprehensive deep-dive into Shopee Thailand’s operations, focusing on four critical pillars: Sales Trends, Product Performance, Marketing Funnels, and Customer Segmentation. By evaluating these core metrics, the analysis provides a holistic view of business health and delivers actionable insights designed to catalyze sustainable, long-term growth.
 
-### 🧩Core Business Problems
+<div align="center">
+
+## **Core Business Problems**
+
+</div>
+
 1. **Inventory optimization and seasonality**: E-commerce companies often struggle with inventory inefficiencies due to "over-stock" on slow-moving products or "stock-out" for high-demand items. This analysis identifies seasonal patterns to better align inventory levels with fluctuating market demand.
 
 2. **Sales conversion leaks**: another primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
+
+<div align="center">
   
-### 🔍Data Model
+## **Data Model**
+
+</div>
+
 <p align="center">
 <img width="950" height="500" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
 </p>
 
+<div align="center">
 
-### 🎯Insights
-**Sales Trend:**
+## **Insights**
+
+</div>
+
+<div align="center">
+  
+### **Sales Trend**
+</div>
+
 <p align="center">
 <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/5ebaf709-6c5a-44da-bbda-6d987c323405" />&nbsp;<img width="45%" height="258" alt="image" src="https://github.com/user-attachments/assets/bfe3a590-d4ea-4545-acdf-c5c0150de9d6" />
 </p>
@@ -44,8 +69,12 @@
 
 5. **Stagnant AOV**:
    - Average Order Value (AOV) remained steady and hovered around the 14K mark while order volume surged significantly in 2025. This suggests that the business is driven by higher number of transactions, not by selling more expensive items.
-   
-**Product performance:**
+
+<div align="center">
+  
+### **Product performance**
+
+</div>
 
 <p align="center">
 <img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" /> &nbsp; <img width="45%" height="272" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
@@ -64,8 +93,12 @@
    - Despite having lower order volume than Home, Electronics maintains the highest Average Order Value (consistently around 26K–27K).
 4. **"High-Volume, High-Value" sweet spot**:
    - Products such as Monitors and Vacuum Cleaners are in a sweet spot as they are representing a healthy balance between high value and high volume.
-   
-**Funnel analysis:**  
+
+<div align="center">
+  
+### **Funnel analysis:**  
+
+</div>
 
 <p align="center">
 <img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" /> &nbsp; <img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
@@ -80,8 +113,12 @@
    - At the Home page level, each device type equally contributes 217K–218K users. This indicates that your marketing strategies are effectively reaching users across all platforms equally.
 4. **Critical Drop-off Point**:
    - The transition from Product View (500K) to Add to cart (360K) represents a 28% drop, indicating this is the primary bottleneck.   Users are interested enough to browse specific items but are hesitating to commit them to their carts. This could be due to price comparisons, shipping costs only becoming visible at this stage, or a lack of persuasive "social proof" (reviews/ratings) on the product pages.
-   
-**Customer demographics:**  
+
+<div align="center">
+  
+### **Customer demographics:**  
+
+</div>
 
 <p align="center">
 <img width="45%" height="248" alt="image" src="https://github.com/user-attachments/assets/a8b1d9ef-9510-44bd-98c4-723bfe1fbb3e" />  &nbsp; <img width="45%" height="350" alt="image" src="https://github.com/user-attachments/assets/12235c55-4392-4f43-ba11-b3d4b5a59c7a" />
@@ -94,7 +131,11 @@
 3. **Gender Parity**:
    - Revenue is split almost 50/50 between Male and Female customers across almost every age bracket.
 
-## 🚀 Recommendations:
+<div align="center">
+  
+## **Recommendations:**
+
+</div>
 
 **Sales**
 1. Threshold-Based Incentives:
@@ -147,7 +188,7 @@
 
 **Goal**: Maximize conversion within the core demographic.
 
-## 🛠️Tech stack
+## Tech stack
 1.  SQL
 2.  Power BI
 3.  Snowflakes
