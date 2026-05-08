@@ -19,7 +19,7 @@
 ### 🎯Insights
 **Sales Trend:**
 <p align="center">
-<img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/5ebaf709-6c5a-44da-bbda-6d987c323405" /> &nbsp;&nbsp; <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/bfe3a590-d4ea-4545-acdf-c5c0150de9d6" />
+<img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/5ebaf709-6c5a-44da-bbda-6d987c323405" />&nbsp;<img width="45%" height="258" alt="image" src="https://github.com/user-attachments/assets/bfe3a590-d4ea-4545-acdf-c5c0150de9d6" />
 </p>
 
 
@@ -27,24 +27,28 @@
    - Sales remained relatively flat and below historical averages through 2022 and 2023, however, Q4 2024 served as a critical inflection point as the revenue surged sharply above benchmark and this upward momentum accelerated through 2025.
    - The 2025 breakout: Q4 2025 revenue reached a massive 1.13bn, nearly tripling the revenue of Q4 2024 (0.41bn).
    - Strong and sustained growth: Revenue growth has remained consistently above 100% YoY. Notably, the 150% growth achieved in 2025 outperformed the already impressive 127% recorded in 2023.
-2. **Marketing-Driven Growth Engine**:
+2. **Pronounced Q4 Seasonality**:
+   - Throughout the observed period, Q4 has consistently emerged as the strongest quarter in terms of revenue. This performance highlights a significant reliance on year-end shopping events, such as the 11.11 and 12.12 festivals.
+3. **Marketing-Driven Growth Engine**:
    - A strong positive correlation between campaign volume and revenue suggests that marketing activity is the primary driver of the Q4 2025 surge. A record-breaking push of 4.9K campaigns directly catalyzed the 1.13bn revenue peak, demonstrating the high efficacy of the current promotional strategy.
 
 <p align="center">
-<img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/1b7d4b72-8c08-4849-8a68-dffd83c9dc1b" /> &nbsp;&nbsp; <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/9a611cbc-95a4-4da4-b20f-a7a865556a05" />
+<img width="45%" height="290" alt="image" src="https://github.com/user-attachments/assets/1b7d4b72-8c08-4849-8a68-dffd83c9dc1b" /> &nbsp;<img width="45%" height="250" alt="image" src="https://github.com/user-attachments/assets/9a611cbc-95a4-4da4-b20f-a7a865556a05" />
+<img width="610" height="237" alt="image" src="https://github.com/user-attachments/assets/c3a263ed-95ed-4ccc-9686-ab3a166a7eef" />
+
+
 </p>
 
-3. **Orders Driving Growth**:
+4. **Orders Driving Growth**:
    - Order volume YoY% for 2025 is 151% (driven by the campaigns), matching the revenue growth 150%, indicating that the business is winning by acquiring a massive number of new customers/orders.
-4. **Pronounced Q4 Seasonality**:
-   - Throughout the observed period, Q4 has consistently emerged as the strongest quarter in terms of revenue. This performance highlights a significant reliance on year-end shopping events, such as the 11.11 and 12.12 festivals.
+
 5. **Stagnant AOV**:
    - Average Order Value (AOV) remained steady and hovered around the 14K mark while order volume surged significantly in 2025. This suggests that the business is driven by higher number of transactions, not by selling more expensive items.
    
 **Product performance:**
 
 <p align="center">
-<img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" /> &nbsp;&nbsp; <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
+<img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" /> &nbsp; <img width="45%" height="272" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
 </p>
 
 1. **The "Home" Category Dominance**:
@@ -53,7 +57,7 @@
    - Significant revenue concentration is observed in Home Goods, led by Microwaves and Vacuum Cleaners, and Electronics, driven by strong sales in Monitors and Laptops.
 
 <p align="center">
-<img width="45%" height="350" alt="image" src="https://github.com/user-attachments/assets/d03a4cf0-1bcd-4fe4-9a04-a1267f50b453" /> &nbsp;&nbsp; <img width="45%" height="240" alt="image" src="https://github.com/user-attachments/assets/6d05b444-934b-4afc-aa1e-512d39454a60" />
+<img width="45%" height="380" alt="image" src="https://github.com/user-attachments/assets/d03a4cf0-1bcd-4fe4-9a04-a1267f50b453" /> &nbsp; <img width="45%" height="240" alt="image" src="https://github.com/user-attachments/assets/6d05b444-934b-4afc-aa1e-512d39454a60" />
 </p>
 
 3. **Electronics is the Premium Driver**:
@@ -62,6 +66,12 @@
    - Products such as Monitors and Vacuum Cleaners are in a sweet spot as they are representing a healthy balance between high value and high volume.
    
 **Funnel analysis:**  
+
+<p align="center">
+<img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" /> &nbsp; <img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
+</p>
+
+
 1. **High Overall Conversion Efficiency**:
    - Out of 652K users who reached the Home page, 300K successfully completed payments. This represents a total conversion rate of 46%, which is significantly higher than industry benchmarks for standard e-commerce.
 2. **Low Checkout Abandonment**:
