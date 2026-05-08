@@ -55,7 +55,7 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
    
 **Customer demographics:**  
 1. **Market Concentration in Bangkok & Surrounding Areas**:
-   - Bangkok Dominance: 37.68% (1.54bn) of total revenue is generated in Bangkok alone. When combined with the surrounding provinces (Samut Prakan, Pathum Thani, Nakhon Pathom), this metropolitan cluster accounts for over 75% of your total business.
+   - 37.68% (1.54bn) of total revenue is generated in Bangkok alone. When combined with the surrounding provinces (Samut Prakan, Pathum Thani, Nakhon Pathom), this metropolitan cluster accounts for over 75% of your total business.
 2. **High-Value "Millennial" client Base**:
    - The 20-30 and 30-40 age groups are the primary revenue drivers, contributing nearly half of total revenue (46%) collectively.
 3. **Gender Parity**:
@@ -64,10 +64,9 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
 ## 🚀 Recommendations:
 
 **Sales**
-1. Implement Product Bundling:
-   - Create "Frequently Bought Together" modules on the Shopee storefront to move multiple items per checkout to increase AOV.
+
 2. Threshold-Based Incentives:
-   - Offer tiered discounts or free shipping policy that kick in just above your current 14K average AOV.
+   - Offer tiered discounts or free shipping policy for total purchase exceeding 14K average AOV.
 3. Upsell at Checkout:
    - Use "Add-on Deal" feature to suggest high-margin accessories right before the customer completes the purchase.
 4. Double down on the high-performing campaign types:
@@ -79,11 +78,11 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
 
 **Products**
 1. Cross-Sell Opportunity:
-   - Since the Home category has the highest order volume (114K orders), there is a massive opportunity to cross-sell Electronics (high AOV) to these same customers. For example, targeting "Table" buyers with "Monitor" or "Laptop" promotions.
-2. Invest in High-Growth "Small Home" Appliances:
+   - Create "Frequently Bought Together" feature to move multiple items per checkout to increase AOV.
+2. Prodcut bundling:
+   - For example, create package deals including monitor, laptop, and mouse.
+3. Invest in High-Growth "Small Home" Appliances:
    - The massive 2025 growth in Blenders (159%) and Coffee Makers (155%) suggests a trend toward kitchen lifestyle upgrades. Doubling down on marketing for these specific items could yield the highest ROI in the next quarter.
-3. AOV Stability:
-   - Notice that while Revenue and Orders are skyrocketing, AOV is flat. This confirms that your growth is entirely acquisition-led. To increase profitability, you should now focus on bundling (e.g., selling a "Kitchen Starter Pack" with a Microwave and Blender) to force the AOV upward.
 
 **Customer Conversion**
 1. Optimize Product Pages:
