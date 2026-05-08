@@ -64,105 +64,52 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
 ## 🚀 Recommendations:
 
 **Sales**
-1. Shift from Acquisition to "AOV Maximization"
+1. Implement "Threshold Incentives." Since the average AOV is roughly 14K, offer tiered vouchers or free shipping for orders over 16K or 18K.
+   - Shift from Acquisition to "AOV Maximization"
 The data shows a clear divergence: Orders YoY% (151%) and Revenue YoY% (150%) are skyrocketing, while AOV YoY% is slightly negative (-0.5%). The business is winning on volume but losing on per-transaction value.
+   - Goal: Force the AOV upward to ensure that the massive influx of new orders results in higher net margins.
 
-Recommendation: Implement "Threshold Incentives." Since the average AOV is roughly 14K, offer tiered vouchers or free shipping for orders over 16K or 18K.
+2. Double down on the high-performing campaign types from Q4 2025. Analyze which specific Shopee tools (Search Ads vs. Flash Sales) drove the highest ROAS during this peak.
+   -The Number of Campaigns chart shows a massive spike in Q4 2025 (4.9K) that perfectly aligns with the revenue peak of 1.13bn. The revenue line is rising steeper than the campaign bars, indicating high marketing efficiency.
+   - Goal: Replicate this "efficiency surge" in Q2 and Q3 of 2026 to smooth out seasonality rather than relying solely on a year-end boost.
 
-Goal: Force the AOV upward to ensure that the massive influx of new orders results in higher net margins.
+3. Introduce Product Bundling for high-volume items. Instead of discounting a single unit, offer a "Buy 2, Save 15%" deal to maintain high order volume while protecting the total basket value.
+   - Looking at the AOV line chart, there is a significant "sawtooth" pattern with sharp drops in the second half of each year. This suggests that aggressive discounting during mega-sale events (like 11.11 or 12.12) is dragging down your transaction value.
+   - Stabilize the AOV line and prevent it from dipping below the 13.5K support level during major sales.
 
-2. Capitalize on the "Q4 Campaign Efficiency"
-The Number of Campaigns chart shows a massive spike in Q4 2025 (4.9K) that perfectly aligns with the revenue peak of 1.13bn. The revenue line is rising steeper than the campaign bars, indicating high marketing efficiency.
 
-Recommendation: Double down on the high-performing campaign types from Q4 2025. Analyze which specific Shopee tools (Search Ads vs. Flash Sales) drove the highest ROAS during this peak.
-
-Goal: Replicate this "efficiency surge" in Q2 and Q3 of 2026 to smooth out seasonality rather than relying solely on a year-end boost.
-
-3. Address the AOV Volatility in Q3/Q4
-Looking at the AOV line chart, there is a significant "sawtooth" pattern with sharp drops in the second half of each year. This suggests that aggressive discounting during mega-sale events (like 11.11 or 12.12) is dragging down your transaction value.
-
-Recommendation: Introduce Product Bundling for high-volume items. Instead of discounting a single unit, offer a "Buy 2, Save 15%" deal to maintain high order volume while protecting the total basket value.
-
-Goal: Stabilize the AOV line and prevent it from dipping below the 13.5K support level during major sales.
-
-4. Optimize Fulfillment for "Hyper-Growth" Volume
-The Number of Orders chart indicates you have moved from a baseline of ~19K orders to nearly 100K in a single quarter. This level of scaling can lead to fulfillment bottlenecks and increased shipping costs.
-
-Recommendation: Evaluate your logistics "Cost per Order." With the 151% increase in volume, you now have the leverage to negotiate better rates with 3PL (Third-Party Logistics) providers or consider moving high-velocity items to a "Fulfilled by Shopee" model to maintain shipping speed.
-
-Goal: Ensure operational costs don't scale faster than revenue, protecting the bottom line during this hyper-growth phase.
-
-1. Execute an "AOV Lift" Strategy
 Since your AOV has been flat (around 14K) while volume has skyrocketed, you are leaving money on the table with every transaction.
-Implement Product Bundling: Create "Frequently Bought Together" modules on the Shopee storefront to move multiple items per checkout.
-Threshold-Based Incentives: Offer tiered discounts or free shipping vouchers that kick in just above your current 14K AOV (e.g., "Spend 16K, get 10% off").
-Upsell at Checkout: Use the Shopee "Add-on Deal" feature to suggest high-margin accessories right before the customer completes the purchase.
+1. Implement Product Bundling:
+   - Create "Frequently Bought Together" modules on the Shopee storefront to move multiple items per checkout.
+2. Threshold-Based Incentives:
+   - Offer tiered discounts or free shipping policy that kick in just above your current 14K AOV.
+3. Upsell at Checkout:
+   - Use the Shopee "Add-on Deal" feature to suggest high-margin accessories right before the customer completes the purchase.
+4. Double down on the high-performing campaign types
+   - Replicate the marketing efficiency surge in Q2 and Q3 of 2026 to smooth out seasonality rather than relying solely on a year-end boost.
+5. Targeted Re-engagement: 
+   - Transition from acquisition to retention. It is often cheaper to retain a customer than to find a new one. Send personalized emails to existing customers with exclusive promotional vouchers to drive repeat orders without needing a new expensive ad campaign.
 
-2. Optimize Marketing Spend Efficiency
-The "Number of Campaigns" chart shows a massive spike in Q4 2025. While revenue followed, you need to ensure you aren't over-spending to "buy" that growth.
-Shift to High-ROI Channels: Analyze which specific Shopee marketing tools (Search Ads vs. Discovery Ads vs. Flash Sales) yield the highest Return on Ad Spend (ROAS) and reallocate the budget from underperforming campaigns.
-
-3. Transition from Acquisition to Retention
-High order volume is great, but it is often cheaper to keep a customer than to find a new one.
-Targeted Re-engagement: Send personalized Shopee Chat Broadcasts to "At-Risk" customers with exclusive "Welcome Back" vouchers to drive repeat orders without needing a new expensive ad campaign.
-
-4. Inventory & Operations Scaling
+5. Inventory & Operations Scaling
 A 150% YoY growth in revenue can strain supply chains and lead to "Out of Stock" issues, which kill Shopee search rankings.
 Predictive Stocking: Use your sales trend data to forecast Q1 and Q2 2026 demand. Ensure your top-performing SKUs are stocked 20% above historical levels to account for the current growth momentum.
 
 Monitor Order Velocity: If order volume continues to climb toward 100K+ per quarter, evaluate whether your current fulfillment process can handle the peak without increasing shipping delays.
 
 **Products**
-Actionable Strategic Insights
-Cross-Sell Opportunity: Since the Home category has the highest order volume (114K orders), there is a massive opportunity to cross-sell Electronics (high AOV) to these same customers. For example, targeting "Table" buyers with "Monitor" or "Laptop" promotions.
-
-Invest in High-Growth "Small Home" Appliances: The massive 2025 growth in Blenders (159%) and Coffee Makers (155%) suggests a trend toward kitchen lifestyle upgrades. Doubling down on marketing for these specific items could yield the highest ROI in the next quarter.
-
-AOV Stability: Notice that while Revenue and Orders are skyrocketing, AOV is flat. This confirms that your growth is entirely acquisition-led. To increase profitability, you should now focus on bundling (e.g., selling a "Kitchen Starter Pack" with a Microwave and Blender) to force the AOV upward.
-
+1. Cross-Sell Opportunity: Since the Home category has the highest order volume (114K orders), there is a massive opportunity to cross-sell Electronics (high AOV) to these same customers. For example, targeting "Table" buyers with "Monitor" or "Laptop" promotions.
+2. Invest in High-Growth "Small Home" Appliances: The massive 2025 growth in Blenders (159%) and Coffee Makers (155%) suggests a trend toward kitchen lifestyle upgrades. Doubling down on marketing for these specific items could yield the highest ROI in the next quarter.
+3. AOV Stability: Notice that while Revenue and Orders are skyrocketing, AOV is flat. This confirms that your growth is entirely acquisition-led. To increase profitability, you should now focus on bundling (e.g., selling a "Kitchen Starter Pack" with a Microwave and Blender) to force the AOV upward.
 
 **Customer Conversion**
-
-1. High Overall Conversion Efficiency
-The conversion funnel demonstrates a remarkably high "stickiness" from the initial landing through to payment.
-
-Funnel Retention: Out of 652K users who reached the Home page, 300K successfully completed payments. This represents a total conversion rate of 46%, which is significantly higher than industry benchmarks for standard e-commerce.
-
-Low Checkout Abandonment: Notably, there is zero drop-off between the "Checkout" and "Payments" stages (both at 300K). This suggests a frictionless payment gateway and high consumer intent once the checkout process begins.
-
-2. Device-Balanced Engagement
-The traffic and conversion behavior are almost perfectly distributed across Desktop, Mobile, and Tablet users.
-
-Equal Traffic Share: At the Home page level, each device type contributes approximately 217K–218K users. This indicates that your marketing and SEO strategies are effectively reaching users across all platforms equally.
-
-Consistent Drop-off Patterns: The attrition rate at each stage (Home → Product View → Add to Cart) remains proportional across all devices. This suggests a highly responsive UI/UX design that performs consistently regardless of the user's screen size.
-
-3. Critical Drop-off Point: Product View to Add to Cart
-While the overall funnel is strong, the most significant "leakage" occurs at the middle of the funnel.
-
-The Decision Gap: The transition from Product View (500K) to Add to Cart (360K) represents a 28% drop.
-
-Insight: This is the primary bottleneck. Users are interested enough to browse specific items but are hesitating to commit them to their carts. This could be due to price comparisons, shipping costs only becoming visible at this stage, or a lack of persuasive "social proof" (reviews/ratings) on the product pages.
-
-4. Efficient Lower Funnel (Bottom-of-Funnel)
-Once an item is added to the cart, the likelihood of purchase is extremely high.
-
-Cart-to-Payment Success: 83.3% of users who add items to their cart proceed to payment. This indicates that the "Add to Cart" action is a very strong indicator of purchase intent for your audience.
-
-Actionable Recommendations
-Optimize Product Pages: Since the largest drop-off is between Product View and Add to Cart, focus on A/B testing your product pages. Adding "Limited Stock" alerts, clearer value propositions, or "Save for Later" options could help bridge this gap.
-
-Maintain Multi-Device Parity: Because your users are so evenly split, any future feature updates must be "Mobile-First" and "Desktop-Robust" simultaneously. Avoid optimizing for one at the expense of the other.
-
-Investigate the 100% Checkout-to-Payment Rate: While this is a positive sign, it’s worth double-checking the data logging to ensure that "Checkout" and "Payment" are truly distinct events, as a 100% completion rate is exceptionally rare and may suggest a very streamlined (or combined) one-click checkout process.
+1. Optimize Product Pages: Since the largest drop-off is between Product View and Add to Cart, focus on A/B testing your product pages. Adding "Limited Stock" alerts, clearer value propositions, or "Save for Later" options could help bridge this gap.
+2. Maintain Multi-Device Parity: Because your users are so evenly split, any future feature updates must be "Mobile-First" and "Desktop-Robust" simultaneously. Avoid optimizing for one at the expense of the other.
+3. Investigate the 100% Checkout-to-Payment Rate: While this is a positive sign, it’s worth double-checking the data logging to ensure that "Checkout" and "Payment" are truly distinct events, as a 100% completion rate is exceptionally rare and may suggest a very streamlined (or combined) one-click checkout process.
 
 **Customer Segmentation**
-Actionable Strategic Roadmap
-Geographical Expansion: Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster (e.g., Pak Kret or regional hubs in the North) to reduce dependency on the capital.
-
-Age-Specific Campaigns: Since the 20-40 group is your engine, focus your "Shopee Live" and TikTok campaigns on this demographic, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
-
-AOV Lift in Groceries/Beauty: These categories have lower AOV (~9K-10K). Use Product Bundling (e.g., "Home Cleaning Kit" including a Vacuum and Beauty/Grocery essentials) to increase the basket size of your high-frequency shoppers.
+1. Geographical Expansion: Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster (e.g., Pak Kret or regional hubs in the North) to reduce dependency on the capital.
+2. Age-Specific Campaigns: Since the 20-40 group is your engine, focus your "Shopee Live" and TikTok campaigns on this demographic, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
+3. Product Bundling: to increase the basket size of your high-frequency shoppers.
 
 ## 🛠️Tech stack
 1.  SQL
