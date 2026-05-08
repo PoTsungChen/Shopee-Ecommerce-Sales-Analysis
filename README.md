@@ -95,13 +95,17 @@ Goal: Increase Average Order Value (AOV) and maximum ROI.
 1. Optimize Product Pages:
    - Add "Limited Stock" or "Time-Sensitive Offer" alerts to create sense of urgency and accelerate the decision-making.
    - Add reviews/ratings feature on the product pages to build consumer confidence and streamline the decision-making process for potential buyers.
+Goal: Increase Conversion Rate by reducing time-to-purchase and minimizing purchase friction.
 
 **Customer Segmentation**
 1. Geographical Expansion:
    - Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster to reduce dependency on the capital city.
+Goal: Increase regional market share & diversify revenue streams.
+
 2. Age-Specific Campaigns:
    - Implement social media campaigns on 20-40 age group, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
 
+Goal: Maximize conversion within the core demographic
 
 ## 🛠️Tech stack
 1.  SQL
