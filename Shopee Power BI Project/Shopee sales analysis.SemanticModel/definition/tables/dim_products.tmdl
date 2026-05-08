@@ -1,0 +1,93 @@
+table dim_products
+	lineageTag: 5269eb88-2f5d-4f5f-a8f3-f88ae4bb1270
+
+	column PRODUCT_ID
+		dataType: string
+		lineageTag: 17b7c2cb-d0a4-421c-b81f-86c4428345dd
+		summarizeBy: none
+		sourceColumn: PRODUCT_ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column SELLER_ID
+		dataType: string
+		lineageTag: 6a6e312b-00e0-4613-91c2-a61ce2b8c0ad
+		summarizeBy: none
+		sourceColumn: SELLER_ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column CATEGORY
+		dataType: string
+		lineageTag: f95551f1-4dee-474c-82f1-8b7e00bf142f
+		summarizeBy: none
+		sourceColumn: CATEGORY
+
+		annotation SummarizationSetBy = Automatic
+
+	column PRODUCT_NAME
+		dataType: string
+		lineageTag: b463762e-b785-44e6-8611-5d425193dd5d
+		summarizeBy: none
+		sourceColumn: PRODUCT_NAME
+
+		annotation SummarizationSetBy = Automatic
+
+	column MAINTENANCE_RATE
+		dataType: double
+		lineageTag: c5eb6256-44bf-4a8d-a427-6892fdee4ff0
+		summarizeBy: sum
+		sourceColumn: MAINTENANCE_RATE
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column COMMISSION_RATE
+		dataType: double
+		lineageTag: 6a8cbd82-d143-4780-b3a8-f3099362e1f9
+		summarizeBy: sum
+		sourceColumn: COMMISSION_RATE
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column WEIGHT
+		dataType: double
+		lineageTag: 93d1df19-686e-424c-ba39-cce21276a754
+		summarizeBy: sum
+		sourceColumn: WEIGHT
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column CREATED_AT
+		dataType: dateTime
+		formatString: Short Date
+		lineageTag: 461e7eda-54c3-482a-9ea0-fbb4e83bc391
+		summarizeBy: none
+		sourceColumn: CREATED_AT
+
+		variation Variation
+			isDefault
+			relationship: 98ce7c68-27ba-4aa2-a7c7-f6bc24be4ffb
+			defaultHierarchy: LocalDateTable_072ef5b7-3d18-4717-98da-4f9b8c9d58dc.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition dim_products = m
+		mode: import
+		source =
+				let
+				    Source = STG_PRODUCTS
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,51 @@
+table dim_sessions
+	lineageTag: bebf139d-ac8f-42d7-a00c-ba54244d5445
+
+	column ACTIVITY_ID
+		dataType: double
+		lineageTag: 790acd24-cbab-412d-9fed-b40925b100f8
+		summarizeBy: count
+		sourceColumn: ACTIVITY_ID
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column SESSION_ID
+		dataType: double
+		lineageTag: d1a92fe8-ed00-4361-992c-1544c8bdc5e1
+		summarizeBy: count
+		sourceColumn: SESSION_ID
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column EVENT_PAGE
+		dataType: string
+		lineageTag: 1fb41bf4-7e19-4a6d-955d-99ef253f6307
+		summarizeBy: none
+		sourceColumn: EVENT_PAGE
+
+		annotation SummarizationSetBy = Automatic
+
+	column DEVICE_TYPE
+		dataType: string
+		lineageTag: 450e00c4-fcef-484c-b878-7478437602ec
+		summarizeBy: none
+		sourceColumn: DEVICE_TYPE
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_sessions = m
+		mode: import
+		source =
+				let
+				    Source = STG_SESSIONS
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
