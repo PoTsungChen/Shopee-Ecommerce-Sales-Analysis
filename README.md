@@ -1,6 +1,6 @@
 <p align="center">
   
-<img width="200" height="75" alt="image" src="https://github.com/user-attachments/assets/41826a61-0761-4b9f-a35f-f87c9033318d" />
+<img width="200" height="70" alt="image" src="https://github.com/user-attachments/assets/41826a61-0761-4b9f-a35f-f87c9033318d" />
 
 </p>
 
@@ -218,4 +218,4 @@
 - SQL
 - Power BI
 - Snowflakes
-- Dataset Source: Kaggle
+- Dataset Source: The raw data for this project was sourced from [Kaggle's Shopee TH: Customer Journey & Operations Dataset.](https://www.kaggle.com/datasets/hninshwezinhlaing/shopee-th-customer-journey-and-operations-dataset?resource=download)
