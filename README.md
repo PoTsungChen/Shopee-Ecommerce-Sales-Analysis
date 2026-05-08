@@ -162,7 +162,7 @@
 - Strategic Inventory Scaling:
    - Utilize cyclical sales data to project future inventory requirements. Maintain optimal stock levels for top-performing products to sustain growth momentum while mitigating the risk of stock-outs and lost revenue.
   
-**Goal**: Smooth revenue volatility & sustain growth momentum while align inventory with demand fluctuations.
+**Goal**: Smooth revenue volatility & align inventory with demand fluctuations.
 
 - Targeted Re-engagement:
    - Leverage the expanded customer base from recent campaigns to fuel retention opportunity. Send personalized emails to existing customers with exclusive promotional vouchers to drive repeat orders without needing a new expensive ad campaign.
@@ -188,10 +188,9 @@
 
 ### **Customer Segmentation**
 - Geographical Expansion:
-   - Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster to reduce dependency on the capital city.
+   - Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster to reduce geographical revenue concentration 
   
 **Goal**: Increase regional market share & diversify revenue streams.
-
 
 - Age-Specific Campaigns:
    - Implement social media campaigns on 20-40 age group, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
@@ -206,12 +205,17 @@
 
 <p align="center">
   
-<img width="1289" height="733" alt="image" src="https://github.com/user-attachments/assets/c05f9e60-0135-4397-82e2-24d26f51c345" />
+<img width="1300" height="732" alt="image" src="https://github.com/user-attachments/assets/6565b444-2112-4e81-bb9b-89f10c25cf92" />
 
 </p>
 
-## Tech stack
-1.  SQL
-2.  Power BI
-3.  Snowflakes
-4.  Dataset Source: Kaggle
+<div align="center">
+  
+## **Tech stack**
+
+</div>
+
+- SQL
+- Power BI
+- Snowflakes
+- Dataset Source: Kaggle
