@@ -83,12 +83,13 @@ Goal: Align inventory with demand fluctuations.
 Goal: Reduce churn & drive repeat revenue.
 
 **Products**
-1. Cross-Sell Opportunity:
+1. Strategic cross-selling:
+   - Use automated checkout recommendations to pair core electronics with high-margin essential accessories.
+2. Data-driven prodcut bundling:
    - Create "Frequently Bought Together" feature to move multiple items per checkout to increase AOV.
-2. Prodcut bundling:
-   - For example, create package deals including monitor, laptop, and mouse.
-3. Invest in High-Growth "Small Home" Appliances:
-   - The massive 2025 growth in Blenders (159%) and Coffee Makers (155%) suggests a trend toward kitchen lifestyle upgrades. Doubling down on marketing for these specific items could yield the highest ROI in the next quarter.
+3. Reallocate marketing budget toward the High-Growth "Small Home" Appliances:
+   - The massive 2025 growth in Blenders (159%) and Coffee Makers (155%) suggests a trend toward kitchen lifestyle upgrades.
+Goal: Increase Average Order Value (AOV) and maximum ROI.
 
 **Customer Conversion**
 1. Optimize Product Pages:
