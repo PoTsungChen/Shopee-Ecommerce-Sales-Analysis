@@ -12,7 +12,7 @@
   
 ### 🔍Data Model
 <p align="center">
-<img width="950" height="550" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
+<img width="950" height="500" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
 </p>
 
 
@@ -29,6 +29,11 @@
    - Strong and sustained growth: Revenue growth has remained consistently above 100% YoY. Notably, the 150% growth achieved in 2025 outperformed the already impressive 127% recorded in 2023.
 2. **Marketing-Driven Growth Engine**:
    - A strong positive correlation between campaign volume and revenue suggests that marketing activity is the primary driver of the Q4 2025 surge. A record-breaking push of 4.9K campaigns directly catalyzed the 1.13bn revenue peak, demonstrating the high efficacy of the current promotional strategy.
+
+<p align="center">
+<img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/1b7d4b72-8c08-4849-8a68-dffd83c9dc1b" /> &nbsp;&nbsp; <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/9a611cbc-95a4-4da4-b20f-a7a865556a05" />
+</p>
+
 3. **Orders Driving Growth**:
    - Order volume YoY% for 2025 is 151% (driven by the campaigns), matching the revenue growth 150%, indicating that the business is winning by acquiring a massive number of new customers/orders.
 4. **Pronounced Q4 Seasonality**:
@@ -37,10 +42,20 @@
    - Average Order Value (AOV) remained steady and hovered around the 14K mark while order volume surged significantly in 2025. This suggests that the business is driven by higher number of transactions, not by selling more expensive items.
    
 **Product performance:**
+
+<p align="center">
+<img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" /> &nbsp;&nbsp; <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
+</p>
+
 1. **The "Home" Category Dominance**:
    - Home category accounts for nearly half of all revenue (49.69%) followed by electronics second-largest revenue stream.
 2. **Top Product Contributors**:
    - Significant revenue concentration is observed in Home Goods, led by Microwaves and Vacuum Cleaners, and Electronics, driven by strong sales in Monitors and Laptops.
+
+<p align="center">
+<img width="45%" height="350" alt="image" src="https://github.com/user-attachments/assets/d03a4cf0-1bcd-4fe4-9a04-a1267f50b453" /> &nbsp;&nbsp; <img width="45%" height="240" alt="image" src="https://github.com/user-attachments/assets/6d05b444-934b-4afc-aa1e-512d39454a60" />
+</p>
+
 3. **Electronics is the Premium Driver**:
    - Despite having lower order volume than Home, Electronics maintains the highest Average Order Value (consistently around 26K–27K).
 4. **"High-Volume, High-Value" sweet spot**:
