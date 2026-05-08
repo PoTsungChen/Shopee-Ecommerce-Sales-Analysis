@@ -1,21 +1,28 @@
 # Shopee Thailand E-commerce Sales Analysis
 
 
-## 🖼️Contxt
+### 🖼️Contxt
 
 - As the leading e-commerce platform in Southeast Asia, Shopee operates within a high-velocity digital marketplace. This project delivers a comprehensive deep-dive into Shopee Thailand’s operations, focusing on four critical pillars: Sales Trends, Product Performance, Marketing Funnels, and Customer Segmentation. By evaluating these core metrics, the analysis provides a holistic view of business health and delivers actionable insights designed to catalyze sustainable, long-term growth.
 
-## 🧩Core Business Problems
+### 🧩Core Business Problems
 1. **Inventory optimization and seasonality**: E-commerce companies often struggle with inventory inefficiencies due to "over-stock" on slow-moving products or "stock-out" for high-demand items. This analysis identifies seasonal patterns to better align inventory levels with fluctuating market demand.
 
 2. **Sales conversion leaks**: another primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
   
-## 🔍Data Model
-<img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
+### 🔍Data Model
+<p align="center">
+<img width="950" height="550" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
+</p>
 
 
-## 🎯Insights
+### 🎯Insights
 **Sales Trend:**
+<p align="center">
+<img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/5ebaf709-6c5a-44da-bbda-6d987c323405" /> &nbsp;&nbsp; <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/bfe3a590-d4ea-4545-acdf-c5c0150de9d6" />
+</p>
+
+
 1. **Explosive revenue growth in 2025**.
    - Sales remained relatively flat and below historical averages through 2022 and 2023, however, Q4 2024 served as a critical inflection point as the revenue surged sharply above benchmark and this upward momentum accelerated through 2025.
    - The 2025 breakout: Q4 2025 revenue reached a massive 1.13bn, nearly tripling the revenue of Q4 2024 (0.41bn).
