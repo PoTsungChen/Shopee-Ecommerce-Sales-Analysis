@@ -198,6 +198,17 @@
   
 **Goal**: Maximize conversion within the core demographic.
 
+<div align="center">
+
+## **Dashboard**
+
+</div>
+
+<p align="center">
+  
+<img width="1289" height="733" alt="image" src="https://github.com/user-attachments/assets/c05f9e60-0135-4397-82e2-24d26f51c345" />
+
+</p>
 
 ## Tech stack
 1.  SQL
