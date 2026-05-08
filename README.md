@@ -63,11 +63,9 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
 
 ## 🚀 Recommendations:
 
-
-Based on the performance metrics and trends shown in your dashboard, here are four actionable recommendations to drive continued growth and improve profitability:
-
+**Sales**
 1. Shift from Acquisition to "AOV Maximization"
-The data shows a clear divergence: Orders YoY% (151%) and Revenue YoY% (150%) are skyrocketing, while AOV YoY% is slightly negative (-0.5%). You are winning on volume but losing on per-transaction value.
+The data shows a clear divergence: Orders YoY% (151%) and Revenue YoY% (150%) are skyrocketing, while AOV YoY% is slightly negative (-0.5%). The business is winning on volume but losing on per-transaction value.
 
 Recommendation: Implement "Threshold Incentives." Since the average AOV is roughly 14K, offer tiered vouchers or free shipping for orders over 16K or 18K.
 
@@ -102,22 +100,19 @@ Upsell at Checkout: Use the Shopee "Add-on Deal" feature to suggest high-margin 
 
 2. Optimize Marketing Spend Efficiency
 The "Number of Campaigns" chart shows a massive spike in Q4 2025. While revenue followed, you need to ensure you aren't over-spending to "buy" that growth.
-
 Shift to High-ROI Channels: Analyze which specific Shopee marketing tools (Search Ads vs. Discovery Ads vs. Flash Sales) yield the highest Return on Ad Spend (ROAS) and reallocate the budget from underperforming campaigns.
 
 3. Transition from Acquisition to Retention
 High order volume is great, but it is often cheaper to keep a customer than to find a new one.
-
 Targeted Re-engagement: Send personalized Shopee Chat Broadcasts to "At-Risk" customers with exclusive "Welcome Back" vouchers to drive repeat orders without needing a new expensive ad campaign.
 
 4. Inventory & Operations Scaling
 A 150% YoY growth in revenue can strain supply chains and lead to "Out of Stock" issues, which kill Shopee search rankings.
-
 Predictive Stocking: Use your sales trend data to forecast Q1 and Q2 2026 demand. Ensure your top-performing SKUs are stocked 20% above historical levels to account for the current growth momentum.
 
 Monitor Order Velocity: If order volume continues to climb toward 100K+ per quarter, evaluate whether your current fulfillment process can handle the peak without increasing shipping delays.
 
-
+**Products**
 Actionable Strategic Insights
 Cross-Sell Opportunity: Since the Home category has the highest order volume (114K orders), there is a massive opportunity to cross-sell Electronics (high AOV) to these same customers. For example, targeting "Table" buyers with "Monitor" or "Laptop" promotions.
 
@@ -126,7 +121,7 @@ Invest in High-Growth "Small Home" Appliances: The massive 2025 growth in Blende
 AOV Stability: Notice that while Revenue and Orders are skyrocketing, AOV is flat. This confirms that your growth is entirely acquisition-led. To increase profitability, you should now focus on bundling (e.g., selling a "Kitchen Starter Pack" with a Microwave and Blender) to force the AOV upward.
 
 
-The visuals provide a comprehensive view of the conversion funnel and device-specific user behavior. Here are the key characteristics and strategic insights extracted from the data:
+**Customer Conversion**
 
 1. High Overall Conversion Efficiency
 The conversion funnel demonstrates a remarkably high "stickiness" from the initial landing through to payment.
@@ -161,7 +156,7 @@ Maintain Multi-Device Parity: Because your users are so evenly split, any future
 
 Investigate the 100% Checkout-to-Payment Rate: While this is a positive sign, it’s worth double-checking the data logging to ensure that "Checkout" and "Payment" are truly distinct events, as a 100% completion rate is exceptionally rare and may suggest a very streamlined (or combined) one-click checkout process.
 
-
+**Customer Segmentation**
 Actionable Strategic Roadmap
 Geographical Expansion: Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster (e.g., Pak Kret or regional hubs in the North) to reduce dependency on the capital.
 
