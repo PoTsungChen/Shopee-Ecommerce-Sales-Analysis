@@ -73,7 +73,7 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
 4. Double down on the high-performing campaign types:
    - Replicate the marketing efficiency surge in Q2 and Q3 of 2026 to smooth out seasonality rather than relying solely on a year-end boost.
 5. Strategic Inventory Scaling:
-   - utilizes cyclical sales data to project future inventory requirements. Maintain optimal stock levels for top-performing products to sustain growth momentum while mitigating the risk of stock-outs and lost revenue.
+   - Utilizes cyclical sales data to project future inventory requirements. Maintain optimal stock levels for top-performing products to sustain growth momentum while mitigating the risk of stock-outs and lost revenue.
 6. Targeted Re-engagement: 
    - Transition from acquisition to retention. Send personalized emails to existing customers with exclusive promotional vouchers to drive repeat orders without needing a new expensive ad campaign.
 
@@ -87,19 +87,15 @@ The business is currently in a high-growth scaling phase driven by aggressive ma
 
 **Customer Conversion**
 1. Optimize Product Pages:
-   - Since the largest drop-off is between Product View and Add to Cart, focus on A/B testing your product pages. Adding "Limited Stock" alerts, clearer value propositions, or "Save for Later" options could help bridge this gap.
-2. Maintain Multi-Device Parity:
-   - Because your users are so evenly split, any future feature updates must be "Mobile-First" and "Desktop-Robust" simultaneously. Avoid optimizing for one at the expense of the other.
-3. Investigate the 100% Checkout-to-Payment Rate:
-   - While this is a positive sign, it’s worth double-checking the data logging to ensure that "Checkout" and "Payment" are truly distinct events, as a 100% completion rate is exceptionally rare and may suggest a very streamlined (or combined) one-click checkout process.
+   - Add "Limited Stock" or "Time-Sensitive Offer" alerts to create sense of urgency and accelerate the decision-making.
+   - Add reviews/ratings feature on the product pages to build consumer confidence and streamline the decision-making process for potential buyers.
 
 **Customer Segmentation**
 1. Geographical Expansion:
-   - Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster (e.g., Pak Kret or regional hubs in the North) to reduce dependency on the capital.
+   - Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster to reduce dependency on the capital city.
 2. Age-Specific Campaigns:
-   - Since the 20-40 group is your engine, focus your "Shopee Live" and TikTok campaigns on this demographic, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
-3. Product Bundling:
-   - to increase the basket size of your high-frequency shoppers.
+   - Implement social media campaigns on 20-40 age group, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
+
 
 ## 🛠️Tech stack
 1.  SQL
