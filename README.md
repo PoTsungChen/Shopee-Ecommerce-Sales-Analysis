@@ -1,6 +1,6 @@
 <p align="center">
   
-<img width="280" height="100" alt="image" src="https://github.com/user-attachments/assets/41826a61-0761-4b9f-a35f-f87c9033318d" />
+<img width="200" height="75" alt="image" src="https://github.com/user-attachments/assets/41826a61-0761-4b9f-a35f-f87c9033318d" />
 
 </p>
 
@@ -28,9 +28,9 @@
 
 </div>
 
-1. **Inventory optimization and seasonality**: E-commerce companies often struggle with inventory inefficiencies due to "over-stock" on slow-moving products or "stock-out" for high-demand items. This analysis identifies seasonal patterns to better align inventory levels with fluctuating market demand.
+- **Inventory optimization and seasonality**: E-commerce companies often struggle with inventory inefficiencies due to "over-stock" on slow-moving products or "stock-out" for high-demand items. This analysis identifies seasonal patterns to better align inventory levels with fluctuating market demand.
 
-2. **Sales conversion leaks**: another primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
+- **Sales conversion leaks**: another primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
 
 <div align="center">
   
@@ -149,56 +149,55 @@
 
 </div>
 
-**Sales**
-1. Threshold-Based Incentives:
+### **Sales**
+- Threshold-Based Incentives:
    - Offer tiered discounts or free shipping for total purchase exceeding current 14K average Average Order Value (AOV).
-2. Upsell at Checkout:
+- Upsell at Checkout:
    - Implement "Add-on Deal" feature to algorithmically suggest high-margin accessories at the final checkout stage.
-
+  
 **Goal**: Accelerate Average Order Value (AOV) & margin growth.
 
-3. Double down on the high-performing campaign tactics:
+- Double down on the high-performing campaign tactics:
    - Replicate the high efficiency marketing model in late 2025 into early 2026 to smooth out seasonality rather than relying solely on a year-end boost.
-
-**Goal**: Smooth revenue volatility & sustain growth momentum.
-
-4. Strategic Inventory Scaling:
+- Strategic Inventory Scaling:
    - Utilize cyclical sales data to project future inventory requirements. Maintain optimal stock levels for top-performing products to sustain growth momentum while mitigating the risk of stock-outs and lost revenue.
+  
+**Goal**: Smooth revenue volatility & sustain growth momentum while align inventory with demand fluctuations.
 
-**Goal**: Align inventory with demand fluctuations.
-
-5. Targeted Re-engagement:
+- Targeted Re-engagement:
    - Leverage the expanded customer base from recent campaigns to fuel retention opportunity. Send personalized emails to existing customers with exclusive promotional vouchers to drive repeat orders without needing a new expensive ad campaign.
-
+  
 **Goal**: Reduce churn & drive repeat revenue.
 
-**Products**
-1. Strategic cross-selling:
+### **Products**
+- Strategic cross-selling:
    - Use automated checkout recommendations to pair core electronics with high-margin essential accessories.
-2. Data-driven prodcut bundling:
+- Data-driven prodcut bundling:
    - Create "Frequently Bought Together" feature to move multiple items per checkout to increase AOV.
-3. Reallocate marketing budget toward the High-Growth "Small Home" Appliances:
+- Reallocate marketing budget toward the High-Growth "Small Home" Appliances:
    - The massive 2025 growth in Blenders (159%) and Coffee Makers (155%) suggests a trend toward kitchen lifestyle upgrades.
-
+  
 **Goal**: Increase Average Order Value (AOV) and maximum ROI.
 
-**Customer Conversion**
-1. Optimize Product Pages:
+### **Customer Conversion**
+- Optimize Product Pages:
    - Add "Limited Stock" or "Time-Sensitive Offer" alerts to create sense of urgency and accelerate the decision-making.
    - Add reviews/ratings feature on the product pages to build consumer confidence and streamline the decision-making process for potential buyers.
 
 **Goal**: Increase Conversion Rate by reducing time-to-purchase and minimizing purchase friction.
 
-**Customer Segmentation**
-1. Geographical Expansion:
+### **Customer Segmentation**
+- Geographical Expansion:
    - Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster to reduce dependency on the capital city.
-
+  
 **Goal**: Increase regional market share & diversify revenue streams.
-   
-2. Age-Specific Campaigns:
-   - Implement social media campaigns on 20-40 age group, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
 
+
+- Age-Specific Campaigns:
+   - Implement social media campaigns on 20-40 age group, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
+  
 **Goal**: Maximize conversion within the core demographic.
+
 
 ## Tech stack
 1.  SQL
