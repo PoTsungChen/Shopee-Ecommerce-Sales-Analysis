@@ -65,22 +65,22 @@
 2. Upsell at Checkout:
    - Implement "Add-on Deal" feature to algorithmically suggest high-margin accessories at the final checkout stage.
 
-Goal: Accelerate Average Order Value (AOV) & margin growth.
+**Goal**: Accelerate Average Order Value (AOV) & margin growth.
 
 3. Double down on the high-performing campaign tactics:
    - Replicate the high efficiency marketing model in late 2025 into early 2026 to smooth out seasonality rather than relying solely on a year-end boost.
 
-Goal: Smooth revenue volatility & sustain growth momentum.
+**Goal**: Smooth revenue volatility & sustain growth momentum.
 
 4. Strategic Inventory Scaling:
    - Utilize cyclical sales data to project future inventory requirements. Maintain optimal stock levels for top-performing products to sustain growth momentum while mitigating the risk of stock-outs and lost revenue.
 
-Goal: Align inventory with demand fluctuations.
+**Goal**: Align inventory with demand fluctuations.
 
 5. Targeted Re-engagement:
    - Leverage the expanded customer base from recent campaigns to fuel retention opportunity. Send personalized emails to existing customers with exclusive promotional vouchers to drive repeat orders without needing a new expensive ad campaign.
 
-Goal: Reduce churn & drive repeat revenue.
+**Goal**: Reduce churn & drive repeat revenue.
 
 **Products**
 1. Strategic cross-selling:
@@ -90,23 +90,25 @@ Goal: Reduce churn & drive repeat revenue.
 3. Reallocate marketing budget toward the High-Growth "Small Home" Appliances:
    - The massive 2025 growth in Blenders (159%) and Coffee Makers (155%) suggests a trend toward kitchen lifestyle upgrades.
 
-Goal: Increase Average Order Value (AOV) and maximum ROI.
+**Goal**: Increase Average Order Value (AOV) and maximum ROI.
 
 **Customer Conversion**
 1. Optimize Product Pages:
    - Add "Limited Stock" or "Time-Sensitive Offer" alerts to create sense of urgency and accelerate the decision-making.
    - Add reviews/ratings feature on the product pages to build consumer confidence and streamline the decision-making process for potential buyers.
 
-Goal: Increase Conversion Rate by reducing time-to-purchase and minimizing purchase friction.
+**Goal**: Increase Conversion Rate by reducing time-to-purchase and minimizing purchase friction.
 
 **Customer Segmentation**
 1. Geographical Expansion:
    - Launch targeted "Regional Shipping Discounts" for cities outside the Bangkok cluster to reduce dependency on the capital city.
-Goal: Increase regional market share & diversify revenue streams.
+
+**Goal**: Increase regional market share & diversify revenue streams.
+   
 2. Age-Specific Campaigns:
    - Implement social media campaigns on 20-40 age group, specifically highlighting the Home and Electronics "Sweet Spot" products (Monitors/Vacuums).
 
-Goal: Maximize conversion within the core demographic.
+**Goal**: Maximize conversion within the core demographic.
 
 ## 🛠️Tech stack
 1.  SQL
