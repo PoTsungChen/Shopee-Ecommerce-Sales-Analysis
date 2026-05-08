@@ -1,8 +1,16 @@
+<p align="center">
+  
+<img width="280" height="100" alt="image" src="https://github.com/user-attachments/assets/41826a61-0761-4b9f-a35f-f87c9033318d" />
+
+</p>
+
 <div align="center">
 
 # **Shopee Thailand E-commerce Sales Analysis**
 
 </div>
+
+  
 
 <div align="center">
 
@@ -10,10 +18,12 @@
 
 </div>
 
+  
 - As the leading e-commerce platform in Southeast Asia, Shopee operates within a high-velocity digital marketplace. This project delivers a comprehensive deep-dive into Shopee Thailand’s operations, focusing on four critical pillars: Sales Trends, Product Performance, Marketing Funnels, and Customer Segmentation. By evaluating these core metrics, the analysis provides a holistic view of business health and delivers actionable insights designed to catalyze sustainable, long-term growth.
 
 <div align="center">
 
+  
 ## **Core Business Problems**
 
 </div>
@@ -28,6 +38,7 @@
 
 </div>
 
+  
 <p align="center">
 <img width="950" height="500" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
 </p>
@@ -76,6 +87,7 @@
 
 </div>
 
+  
 <p align="center">
 <img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" /> &nbsp; <img width="45%" height="272" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
 </p>
