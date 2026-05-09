@@ -41,7 +41,9 @@
 
   
 <p align="center">
-<img width="950" height="500" alt="image" src="https://github.com/user-attachments/assets/bd2d5c37-968d-4dee-bba6-e8603185ce4e" />
+  
+<img width="1300" height="781" alt="image" src="https://github.com/user-attachments/assets/827c8a32-75dc-43ec-b632-6440d4b770ce" />
+
 </p>
 
 <div align="center">
