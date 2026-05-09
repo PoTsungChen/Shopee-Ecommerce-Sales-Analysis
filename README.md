@@ -219,4 +219,4 @@
 - SQL
 - Power BI
 - Snowflakes
-- Dataset Source: The raw data for this project was sourced from [Kaggle's Shopee TH: Customer Journey & Operations Dataset.](https://www.kaggle.com/datasets/hninshwezinhlaing/shopee-th-customer-journey-and-operations-dataset?resource=download)
+- Dataset Source: The raw synthetic data for this project was sourced from [Kaggle's Shopee TH: Customer Journey & Operations Dataset.](https://www.kaggle.com/datasets/hninshwezinhlaing/shopee-th-customer-journey-and-operations-dataset?resource=download)
