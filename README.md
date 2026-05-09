@@ -227,7 +227,7 @@
 
 <p align="center">
   
-<img width="1300" height="732" alt="image" src="https://github.com/user-attachments/assets/6565b444-2112-4e81-bb9b-89f10c25cf92" />
+<img width="1423" height="795" alt="image" src="https://github.com/user-attachments/assets/ccd4f8f6-529d-4cb7-b6db-76a667946e98" />
 
 </p>
 
