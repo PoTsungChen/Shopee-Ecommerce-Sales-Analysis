@@ -95,7 +95,7 @@
 
   
 <p align="center">
-<img width="50%" height="300" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" />&nbsp;<img width="49%" height="300" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
+<img width="50%" height="300" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" />&nbsp;<img width="48%" height="300" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
 </p>
 
 1. **The "Home" Category Dominance**:
