@@ -19,7 +19,7 @@
 </div>
 
   
-- Shopee is the leading e-commerce platform operating in a high velocity marketplace in Southeast Asia. A major challenge for many online retail business is that rapid revenue growth does not necessarily translate into profitability. This project provides a deep-dive into Shopee Thailand’s operational health through four critical pillars: Sales Trends, Product Performance, Marketing Funnels, and Customer Segmentation. By evaluating these core metrics, the analysis uncovers the key drivers of performance and delivers actionable insights designed to catalyze sustainable, long-term business growth.
+- Shopee is the leading e-commerce platform operating in a high velocity marketplace in Southeast Asia. Like many online retail business, a major challenge for the company is that rapid revenue growth does not necessarily translate into profitability. This project provides a deep-dive into Shopee Thailand’s operational health through four critical pillars: Sales Trends, Product Performance, Marketing Funnels, and Customer Segmentation. By evaluating these core metrics, the analysis uncovers the key drivers of performance and delivers actionable insights designed to catalyze sustainable, long-term business growth.
 
 <div align="center">
 
