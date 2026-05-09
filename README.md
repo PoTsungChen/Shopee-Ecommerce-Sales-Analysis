@@ -103,7 +103,7 @@
 
 <p align="center">
   
-<img width="49%" height="393" alt="image" src="https://github.com/user-attachments/assets/ed993aa6-716b-4c7e-b676-f30156559c0c" />&nbsp;<img width="49%" height="397" alt="image" src="https://github.com/user-attachments/assets/96a13e9a-c013-4c5e-a085-0308b3f90c43" />
+<img width="49%" height="290" alt="image" src="https://github.com/user-attachments/assets/ed993aa6-716b-4c7e-b676-f30156559c0c" />&nbsp;<img width="49%" height="290" alt="image" src="https://github.com/user-attachments/assets/96a13e9a-c013-4c5e-a085-0308b3f90c43" />
 
 
 
@@ -119,7 +119,7 @@
 </div>
 
 <p align="center">
-<img width="49%" height="270" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" />&nbsp;<img width="49%" height="270" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
+<img width="49%" height="290" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" />&nbsp;<img width="49%" height="290" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
 </p>
 
 
@@ -131,6 +131,18 @@
    - At the Home page level, each device type equally contributes 217K–218K users. This indicates that your marketing strategies are effectively reaching users across all platforms equally.
 4. **Critical Drop-off Point**:
    - The transition from Product View (500K) to Add to cart (360K) represents a 28% drop, indicating this is the primary bottleneck.   Users are interested enough to browse specific items but are hesitating to commit them to their carts. This could be due to price comparisons, shipping costs only becoming visible at this stage, or a lack of persuasive "social proof" (reviews/ratings) on the product pages.
+
+<p align="center">
+  
+<img width="1422" height="387" alt="image" src="https://github.com/user-attachments/assets/69027c2c-de2b-4f9e-b905-13d35bdb6fb0" />
+
+</p>
+
+5. **Discounting**:
+   - The vast majority of both revenue and order volume is generated in the low discount range (< 5%). Particularly in Home and Electronics category. High discount items (>15%) are mostly observed in the Fashion and Beauty category.
+   - Interestingly, higher discount does not generate higher revenue or sales transactions, indicating the core business is not currently rely on deep discounting to drive volume.
+   - AOV does not simply decline as discounts increase. However, Once the discount crosses the 15% threshold, AOV drops sharply and plateaus, suggesting higher discount does attract some bargain hunters.
+   - Since revenue and AOV are highest at minimal discount levels, the current strategy favors high-demand items that don't require price cuts to move.
 
 <div align="center">
   
