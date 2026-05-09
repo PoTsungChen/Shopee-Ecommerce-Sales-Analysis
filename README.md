@@ -70,7 +70,7 @@
    - A strong positive correlation between campaign volume and revenue suggests that marketing activity is the primary driver of the Q4 2025 surge. A record-breaking push of 4.9K campaigns directly catalyzed the 1.13bn revenue peak, demonstrating the high efficacy of the current promotional strategy.
 
 <p align="center">
-<img width="45%" height="290" alt="image" src="https://github.com/user-attachments/assets/1b7d4b72-8c08-4849-8a68-dffd83c9dc1b" /> &nbsp;<img width="45%" height="250" alt="image" src="https://github.com/user-attachments/assets/9a611cbc-95a4-4da4-b20f-a7a865556a05" />
+<img width="45%" height="290" alt="image" src="https://github.com/user-attachments/assets/1b7d4b72-8c08-4849-8a68-dffd83c9dc1b" />&nbsp;<img width="45%" height="250" alt="image" src="https://github.com/user-attachments/assets/9a611cbc-95a4-4da4-b20f-a7a865556a05" />
 <img width="610" height="237" alt="image" src="https://github.com/user-attachments/assets/c3a263ed-95ed-4ccc-9686-ab3a166a7eef" />
 
 
@@ -90,7 +90,7 @@
 
   
 <p align="center">
-<img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" /> &nbsp; <img width="45%" height="272" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
+<img width="45%" height="280" alt="image" src="https://github.com/user-attachments/assets/b1790eda-122b-47d1-8f01-fd8dd6144ef6" />&nbsp;<img width="45%" height="272" alt="image" src="https://github.com/user-attachments/assets/f2c1e6b8-c068-43ae-8814-91752c45d93c" />
 </p>
 
 1. **The "Home" Category Dominance**:
@@ -99,7 +99,7 @@
    - Significant revenue concentration is observed in Home Goods, led by Microwaves and Vacuum Cleaners, and Electronics, driven by strong sales in Monitors and Laptops.
 
 <p align="center">
-<img width="49%" height="280" alt="image" src="https://github.com/user-attachments/assets/d03a4cf0-1bcd-4fe4-9a04-a1267f50b453" /> &nbsp; <img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/6d05b444-934b-4afc-aa1e-512d39454a60" />
+<img width="49%" height="280" alt="image" src="https://github.com/user-attachments/assets/d03a4cf0-1bcd-4fe4-9a04-a1267f50b453" />&nbsp;<img width="45%" height="260" alt="image" src="https://github.com/user-attachments/assets/6d05b444-934b-4afc-aa1e-512d39454a60" />
 </p>
 
 3. **Electronics is the Premium Driver**:
@@ -114,7 +114,7 @@
 </div>
 
 <p align="center">
-<img width="45%" height="270" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" /> &nbsp; <img width="45%" height="270" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
+<img width="45%" height="270" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" />&nbsp;<img width="45%" height="270" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
 </p>
 
 
@@ -134,7 +134,7 @@
 </div>
 
 <p align="center">
-<img width="46%" height="260" alt="image" src="https://github.com/user-attachments/assets/a8b1d9ef-9510-44bd-98c4-723bfe1fbb3e" />  &nbsp; <img width="47%" height="290" alt="image" src="https://github.com/user-attachments/assets/12235c55-4392-4f43-ba11-b3d4b5a59c7a" />
+<img width="46%" height="260" alt="image" src="https://github.com/user-attachments/assets/a8b1d9ef-9510-44bd-98c4-723bfe1fbb3e" />&nbsp;<img width="47%" height="290" alt="image" src="https://github.com/user-attachments/assets/12235c55-4392-4f43-ba11-b3d4b5a59c7a" />
 </p>
 
 1. **Market Concentration in Bangkok & Surrounding Areas**:
