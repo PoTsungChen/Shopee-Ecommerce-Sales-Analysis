@@ -121,7 +121,7 @@
 </div>
 
 <p align="center">
-<img width="49%" height="290" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" />&nbsp;<img width="49%" height="290" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
+<img width="49%" height="285" alt="image" src="https://github.com/user-attachments/assets/f8217c91-cd8c-48b5-9b75-453c7a5cdf67" />&nbsp;<img width="49%" height="285" alt="image" src="https://github.com/user-attachments/assets/578aeb6c-8cb3-4ddc-8820-59fbfffa762a" />
 </p>
 
 
