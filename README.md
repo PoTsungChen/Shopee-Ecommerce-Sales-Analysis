@@ -30,7 +30,7 @@
 
 - **Growth paradox**: many E-commerce companies are facing challenges where top-line revenue and transaction volumes scale rapidly, while Average Order Value (AOV) remains stagnant or declines. The increased order volume often driven by aggressive discounting and low-margin transactions, compounded by fixed delivery and logistics overhead, leads to a rapid erosion of company's overall profitability.
 
-- **Sales conversion leaks**: a primary challenge in e-commerce is the 'High Traffic, Low Revenue' paradox, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
+- **Sales conversion leaks**: a primary bottleneck in e-commerce is the 'High Traffic, Low Revenue' divergence, where significant visitor volume fails to translate into sales. Utilizing funnel analysis, this report pinpoints the specific stages where the highest drop-offs occur, allowing business leaders to determine whether conversion leaks are caused by technical friction or product misalignment.
 
 
 <div align="center">
