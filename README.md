@@ -28,9 +28,9 @@
 
 </div>
 
-- **Growth paradox**: Business may see top-line sales revenue and transaction volumes scale rapidly, however Average Order Value (AOV) remains stagnant or declines. The company needs to identify key factors that contribute to this trend and determine whether it's due to aggressive discounting or low-margin transactions.
+- **Growth paradox**: Business may see top-line sales revenue and transaction volumes scale rapidly, however Average Order Value (AOV) remains stagnant or declines. The company needs to identify key factors that contribute to this trend and determine whether this is due to aggressive discounting or low-margin transactions.
 
-- **Sales Conversion Leakage**: a bottleneck is often observed where high visitor traffic fails to convert into revenue. By pinpointing the specific stages of the highest drop-off, business leaders to determine whether these leaks stem from technical friction or product misalignment.
+- **Sales Conversion Leakage**: a significant bottleneck is often observed where high visitor traffic fails to convert into revenue. By pinpointing the specific stages of the highest drop-off, business leaders to determine whether these leaks stem from technical friction or product misalignment.
 
 
 <div align="center">
