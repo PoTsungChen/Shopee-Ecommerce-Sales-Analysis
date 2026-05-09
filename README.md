@@ -101,7 +101,7 @@
 1. **The "Home" Category Dominance**:
    - Home category accounts for nearly half of all revenue (49.69%) followed by electronics second-largest revenue stream.
 2. **Top Product Contributors**:
-   - Significant revenue concentration is observed in Home Goods, led by Microwaves, tables, and Vacuum Cleaners, and Electronics, driven by strong sales in Monitors and Laptops.
+   - Significant revenue concentration in Microwaves, tables, Vacuum Cleaners, Monitors and Laptops.
 
 <p align="center">
   
