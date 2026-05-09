@@ -146,7 +146,7 @@
 
 <div align="center">
   
-### **Customer demographics:**  
+### **Customer Segmentation:**  
 
 </div>
 
