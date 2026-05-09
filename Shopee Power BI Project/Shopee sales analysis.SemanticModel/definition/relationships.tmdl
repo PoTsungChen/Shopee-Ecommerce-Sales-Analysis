@@ -1,0 +1,32 @@
+relationship 08481964-9833-4910-8444-4a268fffe01e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dim_customers.DOB
+	toColumn: LocalDateTable_0cb47ba6-3574-4925-97ec-d59abf854291.Date
+
+relationship b8fba6b8-f79c-40fa-a179-ca3a289e5eb0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dim_customers.REGISTRATION_DATE
+	toColumn: LocalDateTable_626c8451-38b3-4552-93b3-142d8ac5484f.Date
+
+relationship 98ce7c68-27ba-4aa2-a7c7-f6bc24be4ffb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: dim_products.CREATED_AT
+	toColumn: LocalDateTable_072ef5b7-3d18-4717-98da-4f9b8c9d58dc.Date
+
+relationship AutoDetected_ceea85dc-36ba-4b17-8820-6e3aca2ffd52
+	crossFilteringBehavior: bothDirections
+	fromColumn: dim_order_items.ORDER_ID
+	toColumn: fct_orders.ORDER_ID
+
+relationship AutoDetected_99afb337-1677-4f52-9552-708adac60178
+	fromColumn: dim_order_items.PRODUCT_ID
+	toColumn: dim_products.PRODUCT_ID
+
+relationship a1693315-dc02-bf88-2473-24e0dcf10d52
+	fromColumn: fct_orders.CUSTOMER_ID
+	toColumn: dim_customers.CUSTOMER_ID
+
+relationship 14a220f2-6819-e744-0a88-9dd8538bf4a5
+	fromColumn: fct_orders.ORDER_DATE
+	toColumn: dim_date.Date
+
