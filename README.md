@@ -239,4 +239,4 @@
 - SQL
 - Power BI
 - Snowflakes
-- Dataset Source: [Kaggle's Shopee TH: Customer Journey & Operations Dataset.](https://www.kaggle.com/datasets/hninshwezinhlaing/shopee-th-customer-journey-and-operations-dataset?resource=download) (Synthetic dataset)
+- Dataset Source: [Kaggle's Shopee TH: Customer Journey & Operations Dataset.](https://www.kaggle.com/datasets/hninshwezinhlaing/shopee-th-customer-journey-and-operations-dataset?resource=download) (Synthetic data)
