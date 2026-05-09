@@ -1,0 +1,67 @@
+expression STG_CUSTOMERS =
+		let
+		    Source = Snowflake.Databases("PAAVNXO-OK74718.snowflakecomputing.com","compute_wh",[Implementation="2.0"]),
+		    SHOPPEE_ECOMMERCE_SALES_Database = Source{[Name="SHOPPEE_ECOMMERCE_SALES",Kind="Database"]}[Data],
+		    STAGING_Schema = SHOPPEE_ECOMMERCE_SALES_Database{[Name="STAGING",Kind="Schema"]}[Data],
+		    STG_CUSTOMERS_Table = STAGING_Schema{[Name="STG_CUSTOMERS",Kind="Table"]}[Data],
+		    #"Replaced Value" = Table.ReplaceValue(STG_CUSTOMERS_Table,"other","Unknown",Replacer.ReplaceText,{"GENDER"}),
+		    #"Replaced Value1" = Table.ReplaceValue(#"Replaced Value","Other","Unknown",Replacer.ReplaceText,{"GENDER"}),
+		    #"Filtered Rows" = Table.SelectRows(#"Replaced Value1", each true)
+		in
+		    #"Filtered Rows"
+	lineageTag: ee2e61f3-7128-4870-81c3-1d41b1100d25
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
+expression STG_ORDER_ITEMS =
+		let
+		    Source = Snowflake.Databases("PAAVNXO-OK74718.snowflakecomputing.com","compute_wh",[Implementation="2.0"]),
+		    SHOPPEE_ECOMMERCE_SALES_Database = Source{[Name="SHOPPEE_ECOMMERCE_SALES",Kind="Database"]}[Data],
+		    STAGING_Schema = SHOPPEE_ECOMMERCE_SALES_Database{[Name="STAGING",Kind="Schema"]}[Data],
+		    STG_ORDER_ITEMS_Table = STAGING_Schema{[Name="STG_ORDER_ITEMS",Kind="Table"]}[Data]
+		in
+		    STG_ORDER_ITEMS_Table
+	lineageTag: 04112187-18b0-4c2f-8089-ad6f943243d5
+
+	annotation PBI_ResultType = Table
+
+expression STG_ORDERS =
+		let
+		    Source = Snowflake.Databases("PAAVNXO-OK74718.snowflakecomputing.com","compute_wh",[Implementation="2.0"]),
+		    SHOPPEE_ECOMMERCE_SALES_Database = Source{[Name="SHOPPEE_ECOMMERCE_SALES",Kind="Database"]}[Data],
+		    STAGING_Schema = SHOPPEE_ECOMMERCE_SALES_Database{[Name="STAGING",Kind="Schema"]}[Data],
+		    STG_ORDERS_Table = STAGING_Schema{[Name="STG_ORDERS",Kind="Table"]}[Data]
+		in
+		    STG_ORDERS_Table
+	lineageTag: bd196776-b3dc-4fd5-9262-e59148d26cff
+
+	annotation PBI_ResultType = Table
+
+expression STG_PRODUCTS =
+		let
+		    Source = Snowflake.Databases("PAAVNXO-OK74718.snowflakecomputing.com","compute_wh",[Implementation="2.0"]),
+		    SHOPPEE_ECOMMERCE_SALES_Database = Source{[Name="SHOPPEE_ECOMMERCE_SALES",Kind="Database"]}[Data],
+		    STAGING_Schema = SHOPPEE_ECOMMERCE_SALES_Database{[Name="STAGING",Kind="Schema"]}[Data],
+		    STG_PRODUCTS_Table = STAGING_Schema{[Name="STG_PRODUCTS",Kind="Table"]}[Data]
+		in
+		    STG_PRODUCTS_Table
+	lineageTag: d4975dc6-1d33-47d4-9771-b368258dadd9
+
+	annotation PBI_ResultType = Table
+
+expression STG_SESSIONS =
+		let
+		    Source = Snowflake.Databases("PAAVNXO-OK74718.snowflakecomputing.com","compute_wh",[Implementation="2.0"]),
+		    SHOPPEE_ECOMMERCE_SALES_Database = Source{[Name="SHOPPEE_ECOMMERCE_SALES",Kind="Database"]}[Data],
+		    STAGING_Schema = SHOPPEE_ECOMMERCE_SALES_Database{[Name="STAGING",Kind="Schema"]}[Data],
+		    STG_SESSIONS_Table = STAGING_Schema{[Name="STG_SESSIONS",Kind="Table"]}[Data]
+		in
+		    STG_SESSIONS_Table
+	lineageTag: 9d2eab39-5351-419c-8c07-3b68afc90fe1
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
